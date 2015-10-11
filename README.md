@@ -10,7 +10,7 @@ PS：持续更新中(last update date:2015/10/11)
 >[一.模拟器](#genymotion)
 
 ##正文
-<span id="genymotion">一.模拟器</span>
+<h6 id="genymotion">一.模拟器</h6>
 
 1.genymotion模拟器如何锁屏？
 >答：在模拟器的设置-->安全-->屏幕锁定-->选择除<**无**>以外的其他选项。
