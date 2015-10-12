@@ -17,3 +17,8 @@ PS：持续更新中(last update date:2015/10/11)
        然后点击模拟器的电源按钮即可锁屏（或在命令行中输入```adb shell keyevent 26```原理和按电源键一样，模拟电源键点击事件）
        
  参考链接：[http://stackoverflow.com/questions/29292060/how-to-lock-genymotion](http://stackoverflow.com/questions/29292060/how-to-lock-genymotion)
+ 
+ 2.genymotion模拟器如何打开输入法软键盘？
+ >答：在设置输入法选项中，关闭物理键盘即可。（如下图所示）
+ 
+ ![](http://ww3.sinaimg.cn/mw690/8942f980gw1ewy3xga2uqj20om144dk6.jpg)
