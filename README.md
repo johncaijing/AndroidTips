@@ -26,11 +26,15 @@ PS：持续更新中(last update date:2015/10/13)
  ![](http://ww3.sinaimg.cn/mw690/8942f980gw1ewy3xga2uqj20om144dk6.jpg)
  
  
-<h6 id="genymotion">二.Android Studio</h6>
+<h6 id="AndroidStudio">二.Android Studio</h6>
 1.Andorid Studio中有哪些好用的插件？
 >答: 
->1>GsonFormat:用json数据一键生成JavaBeans
 
->2> ADB  Idea：ctrl + Shift + A 查找中添加常用卸载安装app的一些操作，无需命令行
+>1>.GsonFormat:用json数据一键生成JavaBeans
+
+>2>. ADB  Idea：ctrl + Shift + A 查找中添加常用卸载安装app的一些操作，无需命令行
 
 > 3>.android-parcelable-intellij-plugin 快速实现parcelable序列化
+
+> 4>.android-butterknife-zelezny ButterKnife生成器，快速生成View声明代码
+
