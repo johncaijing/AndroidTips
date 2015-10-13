@@ -11,6 +11,8 @@ PS：持续更新中(last update date:2015/10/13)
 
 >[二.Android Studio](#AndroidStudio)
 
+>[三.Gradle](#Gradle)
+
 ##正文
 <h6 id="genymotion">一.模拟器</h6>
 
@@ -37,4 +39,17 @@ PS：持续更新中(last update date:2015/10/13)
 > 3>.[android-parcelable-intellij-plugin](https://github.com/mcharmas/android-parcelable-intellij-plugin) 快速实现parcelable序列化
 
 > 4>.[android-butterknife-zelezny](https://github.com/avast/android-butterknife-zelezny) ButterKnife生成器，快速生成View声明代码
+
+<h6 id="Gradle">三.Gradle</h6>
+1.Gradle有什么教程?
+
+>答:
+
+>1.[Gradle User Guide 中文版](https://dongchuan.gitbooks.io/gradle-user-guide-/content/)
+
+>2.[Gradle官方教程](https://docs.gradle.org/current/userguide/userguide.html)
+
+>3.[灵活强大的构建系统Gradle（美团技术团队）](http://tech.meituan.com/gradle-practice.html)
+
+>4.[Android官方Gradle教程](https://developer.android.com/intl/zh-cn/tools/building/plugin-for-gradle.html)
 
