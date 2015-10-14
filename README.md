@@ -53,3 +53,5 @@ PS：持续更新中(last update date:2015/10/13)
 
 >4.[Android官方Gradle教程](https://developer.android.com/intl/zh-cn/tools/building/plugin-for-gradle.html)
 
+>5.[Gradle官方Training](http://gradle.org/getting-started-android/)
+
