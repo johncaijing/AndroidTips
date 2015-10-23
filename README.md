@@ -42,6 +42,8 @@ PS：持续更新中(last update date:2015/10/18)
 
 > 4>.[android-butterknife-zelezny](https://github.com/avast/android-butterknife-zelezny) ButterKnife生成器，快速生成View声明代码
 
+> 5>.[Android WiFi ADB](https://github.com/pedrovgs/AndroidWiFiADB) 使用WiFi连接而不需要USB连接Android设备达到安装、运行、调试应用的目的。
+
 2.Android Studio提升效率的技巧文章
 >答:
 
