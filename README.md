@@ -15,6 +15,8 @@ PS：持续更新中(last update date:2015/10/18)
 
 >[四.资源混淆](#resourceMix)
 
+>[五.动画](#animation)
+
 ##正文
 <h6 id="genymotion">一.模拟器</h6>
 
@@ -59,6 +61,11 @@ PS：持续更新中(last update date:2015/10/18)
 
 >[http://www.developerphil.com/android-studio-tips-of-the-day-roundup-6/](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-6/)
 
+3.更新Android Studio报如下错误如何解决？
+>Android Studio: Error:/android-studio/gradle/gradle-2.4/lib/plugins/gradle-diagnostics-2.4.jar (No such file or directory)
+
+更新Android Studio后，Gradle的也得到了更新。cd到gradle文件夹下查看里面gradle文件夹的名字。例如gradle-2.8。然后依次打开Module Settings->Project，将Gradle version改成和之前文件夹对应的版本。Rebuild项目就好了。
+
 <h6 id="Gradle">三.Gradle</h6>
 1.Gradle有什么教程?
 
@@ -83,3 +90,6 @@ PS：持续更新中(last update date:2015/10/18)
 
 >2.[安装包立减1M--微信Android资源混淆打包工具](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=208135658&idx=1&sn=ac9bd6b4927e9e82f9fa14e396183a8f&scene=23&srcid=1012zDgw2RHFIoV0NLKVHhbT#rd)
 
+<h6 id="animation">五.动画</h6>
+1.关于动画有什么教程?
+>1.[Android官方](http://developer.android.com/intl/zh-cn/guide/topics/graphics/index.html)
