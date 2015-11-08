@@ -4,7 +4,7 @@ A collections of tips in Android developing.
 ##前言
 我们在日常开发中，会遇到各种各样的问题，或大或小。正是通过解决这些问题，使得我们的开发技能得到进步。养成记录的好习惯，方便自己日后查看，也方便广大开发者能找到自己遇到的问题的解决方案。
 
-PS：持续更新中(last update date:2015/11/06)
+PS：持续更新中(last update date:2015/11/08)
 
 ##目录
 >[一.模拟器](#genymotion)
@@ -17,6 +17,8 @@ PS：持续更新中(last update date:2015/11/06)
 
 >[五.动画](#animation)
 
+>[六.View](#View)
+
 ##正文
 <h6 id="genymotion">一.模拟器</h6>
 
@@ -28,8 +30,6 @@ PS：持续更新中(last update date:2015/11/06)
  
  2.genymotion模拟器如何打开输入法软键盘？
  >答：在设置输入法选项中，关闭物理键盘即可。（如下图所示）
- 
- ![](http://ww3.sinaimg.cn/mw690/8942f980gw1ewy3xga2uqj20om144dk6.jpg)
  
  
 <h6 id="AndroidStudio">二.Android Studio</h6>
@@ -101,3 +101,18 @@ PS：持续更新中(last update date:2015/11/06)
 >4.[ Android属性动画完全解析(中)，ValueAnimator和ObjectAnimator的高级用法](http://blog.csdn.net/guolin_blog/article/details/43816093)
 
 >5.[Android属性动画完全解析(下)，Interpolator和ViewPropertyAnimator的用法](http://blog.csdn.net/guolin_blog/article/details/44171115)
+
+>6.[Using animations in Android application](http://www.vogella.com/tutorials/AndroidAnimation/article.html)
+
+<h6 id="View">六.View</h6>
+1.View是如何绘制的？
+>1.[How Android Draws Views](http://developer.android.com/intl/zh-cn/guide/topics/ui/how-android-draws.html)
+
+>2.[Android视图状态及重绘流程分析，带你一步步深入了解View(一)](http://blog.csdn.net/guolin_blog/article/details/12921889)
+
+>3.[Android视图状态及重绘流程分析，带你一步步深入了解View(二)](http://blog.csdn.net/guolin_blog/article/details/16330267)
+
+>4.[Android视图状态及重绘流程分析，带你一步步深入了解View(三)](http://blog.csdn.net/guolin_blog/article/details/17045157)
+
+>5.[Android视图状态及重绘流程分析，带你一步步深入了解View(四)](http://blog.csdn.net/guolin_blog/article/details/17357967)
+
