@@ -93,3 +93,11 @@ PS：持续更新中(last update date:2015/11/06)
 <h6 id="animation">五.动画</h6>
 1.关于动画有什么教程?
 >1.[Android官方](http://developer.android.com/intl/zh-cn/guide/topics/graphics/index.html)
+
+>2.[tutorialspoint动画教程](http://www.tutorialspoint.com/android/android_animations.htm)
+
+>3.[Android属性动画完全解析(上)，初识属性动画的基本用法](http://blog.csdn.net/guolin_blog/article/details/43536355)
+
+>4.[ Android属性动画完全解析(中)，ValueAnimator和ObjectAnimator的高级用法](http://blog.csdn.net/guolin_blog/article/details/43816093)
+
+>5.[Android属性动画完全解析(下)，Interpolator和ViewPropertyAnimator的用法](http://blog.csdn.net/guolin_blog/article/details/44171115)
