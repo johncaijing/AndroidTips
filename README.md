@@ -4,7 +4,7 @@ A collections of tips in Android developing.
 ##前言
 我们在日常开发中，会遇到各种各样的问题，或大或小。正是通过解决这些问题，使得我们的开发技能得到进步。养成记录的好习惯，方便自己日后查看，也方便广大开发者能找到自己遇到的问题的解决方案。
 
-PS：持续更新中(last update date:2015/11/08)
+PS：持续更新中(last update date:2015/11/10)
 
 ##目录
 >[一.模拟器](#genymotion)
@@ -80,6 +80,8 @@ PS：持续更新中(last update date:2015/11/08)
 >4.[Android官方Gradle教程](https://developer.android.com/intl/zh-cn/tools/building/plugin-for-gradle.html)
 
 >5.[Gradle官方Training](http://gradle.org/getting-started-android/)
+
+>6.[android-studio.org的Gradle教程](http://ask.android-studio.org/?/explore/category-gradle)
 
 <h6 id="resourceMix">四.资源混淆</h6>
 1.资源混淆有什么好的技术文章?
