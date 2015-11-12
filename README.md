@@ -31,6 +31,9 @@ PS：持续更新中(last update date:2015/11/10)
  2.genymotion模拟器如何打开输入法软键盘？
  >答：在设置输入法选项中，关闭物理键盘即可。（如下图所示）
  
+ 3.genymotion如何安装谷歌服务？
+ >答:[http://stackoverflow.com/questions/17831990/how-do-you-install-google-frameworks-play-accounts-etc-on-a-genymotion-virt](http://stackoverflow.com/questions/17831990/how-do-you-install-google-frameworks-play-accounts-etc-on-a-genymotion-virt)
+ 
  
 <h6 id="AndroidStudio">二.Android Studio</h6>
 1.Andorid Studio中有哪些好用的插件？
