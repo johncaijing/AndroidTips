@@ -4,7 +4,7 @@ A collections of tips in Android developing.
 ##前言
 我们在日常开发中，会遇到各种各样的问题，或大或小。正是通过解决这些问题，使得我们的开发技能得到进步。养成记录的好习惯，方便自己日后查看，也方便广大开发者能找到自己遇到的问题的解决方案。
 
-PS：持续更新中(last update date:2015/11/10)
+PS：持续更新中(last update date:2015/11/13)
 
 ##目录
 >[一.模拟器](#genymotion)
@@ -32,7 +32,7 @@ PS：持续更新中(last update date:2015/11/10)
  >答：在设置输入法选项中，关闭物理键盘即可。（如下图所示）
  
  3.genymotion如何安装谷歌服务？
- >答:[http://stackoverflow.com/questions/17831990/how-do-you-install-google-frameworks-play-accounts-etc-on-a-genymotion-virt](http://stackoverflow.com/questions/17831990/how-do-you-install-google-frameworks-play-accounts-etc-on-a-genymotion-virt)
+ >答:   [http://stackoverflow.com/questions/17831990/how-do-you-install-google-frameworks-play-accounts-etc-on-a-genymotion-virt](http://stackoverflow.com/questions/17831990/how-do-you-install-google-frameworks-play-accounts-etc-on-a-genymotion-virt)
  
  
 <h6 id="AndroidStudio">二.Android Studio</h6>
@@ -108,6 +108,16 @@ PS：持续更新中(last update date:2015/11/10)
 >5.[Android属性动画完全解析(下)，Interpolator和ViewPropertyAnimator的用法](http://blog.csdn.net/guolin_blog/article/details/44171115)
 
 >6.[Using animations in Android application](http://www.vogella.com/tutorials/AndroidAnimation/article.html)
+
+>7 .[动画系列 - 传统View动画与Property动画基础及比较](http://www.lightskystreet.com/2014/12/03/view-and-property-anim-knowldege-and-compare/)
+
+>8 .[动画系列 - PropertyAnim 详解](http://www.lightskystreet.com/2014/12/04/propertyview-anim-analysis/)
+
+>9 .[动画系列 - PropertyAnim 实际应用](http://www.lightskystreet.com/2014/12/10/propertyview-anim-practice/)
+
+>10 .[动画系列 - ViewPager动画](http://www.lightskystreet.com/2014/12/15/viewpager-anim/)
+
+>11 .[Android 动画基础](http://www.lightskystreet.com/2015/05/23/anim_basic_knowledge/)
 
 <h6 id="View">六.View</h6>
 1.View是如何绘制的？
