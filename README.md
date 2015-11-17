@@ -4,7 +4,7 @@ A collections of tips in Android developing.
 ##前言
 我们在日常开发中，会遇到各种各样的问题，或大或小。正是通过解决这些问题，使得我们的开发技能得到进步。养成记录的好习惯，方便自己日后查看，也方便广大开发者能找到自己遇到的问题的解决方案。
 
-PS：持续更新中(last update date:2015/11/13)
+PS：持续更新中(last update date:2015/11/17)
 
 ##目录
 >[一.模拟器](#genymotion)
@@ -29,7 +29,7 @@ PS：持续更新中(last update date:2015/11/13)
  参考链接：[http://stackoverflow.com/questions/29292060/how-to-lock-genymotion](http://stackoverflow.com/questions/29292060/how-to-lock-genymotion)
  
  2.genymotion模拟器如何打开输入法软键盘？
- >答：在设置输入法选项中，关闭物理键盘即可。（如下图所示）
+ >答：在设置输入法选项中，关闭物理键盘即可。
  
  3.genymotion如何安装谷歌服务？
  >答:   [http://stackoverflow.com/questions/17831990/how-do-you-install-google-frameworks-play-accounts-etc-on-a-genymotion-virt](http://stackoverflow.com/questions/17831990/how-do-you-install-google-frameworks-play-accounts-etc-on-a-genymotion-virt)
@@ -118,6 +118,10 @@ PS：持续更新中(last update date:2015/11/13)
 >10 .[动画系列 - ViewPager动画](http://www.lightskystreet.com/2014/12/15/viewpager-anim/)
 
 >11 .[Android 动画基础](http://www.lightskystreet.com/2015/05/23/anim_basic_knowledge/)
+
+>12 .[codepath_android_guides_animations](https://github.com/codepath/android_guides/wiki/Animations)
+
+>12 .[bignerdranch_frame-animations-in-android](https://www.bignerdranch.com/blog/frame-animations-in-android/)
 
 <h6 id="View">六.View</h6>
 1.View是如何绘制的？
