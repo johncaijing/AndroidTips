@@ -4,7 +4,7 @@ A collections of tips in Android developing.
 ##前言
 我们在日常开发中，会遇到各种各样的问题，或大或小。正是通过解决这些问题，使得我们的开发技能得到进步。养成记录的好习惯，方便自己日后查看，也方便广大开发者能找到自己遇到的问题的解决方案。
 
-PS：持续更新中(last update date:2015/11/17)
+PS：持续更新中(last update date:2015/11/20)
 
 ##目录
 >[一.模拟器](#genymotion)
@@ -136,6 +136,17 @@ PS：持续更新中(last update date:2015/11/17)
 >4.[Android视图状态及重绘流程分析，带你一步步深入了解View(三)](http://blog.csdn.net/guolin_blog/article/details/17045157)
 
 >5.[Android视图状态及重绘流程分析，带你一步步深入了解View(四)](http://blog.csdn.net/guolin_blog/article/details/17357967)
+
+2.如何实现自定义View？
+>1.[Android官方教程](http://developer.android.com/intl/zh-cn/training/custom-views/index.html)
+
+>2.[Android官方教程中文版](http://hukai.me/android-training-course-in-chinese/ui/custom-view/index.html)
+
+>3.[Creating custom and compound Views in Android - Tutorial](http://www.vogella.com/tutorials/AndroidCustomViews/article.html)
+
+>4.[Tutorialspoint教程](http://www.tutorialspoint.com/android/android_custom_components.htm)
+
+>5.[ Android自定义View的实现方法，带你一步步深入了解View(四)](http://blog.csdn.net/guolin_blog/article/details/17357967)
 
 
 
