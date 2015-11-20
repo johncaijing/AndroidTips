@@ -86,6 +86,8 @@ PS：持续更新中(last update date:2015/11/17)
 
 >6.[android-studio.org的Gradle教程](http://ask.android-studio.org/?/explore/category-gradle)
 
+>7.[Android Plugin DSL Reference](http://google.github.io/android-gradle-dsl/current/?url_type=39&object_type=webpage&pos=1)
+
 <h6 id="resourceMix">四.资源混淆</h6>
 1.资源混淆有什么好的技术文章?
 
