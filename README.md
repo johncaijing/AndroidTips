@@ -90,6 +90,8 @@ PS：持续更新中(last update date:2015/11/29)
 
 >8.[Gradle脚本基础全攻略](http://blog.csdn.net/yanbober/article/details/49314255#0-tsina-1-52349-397232819ff9a47a7b7e80a40613cfe1)
 
+>9.[深入理解Android之Gradle](http://blog.csdn.net/innost/article/details/48228651)
+
 <h6 id="resourceMix">四.资源混淆</h6>
 1.资源混淆有什么好的技术文章?
 
