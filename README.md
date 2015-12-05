@@ -152,6 +152,17 @@ PS：持续更新中(last update date:2015/11/29)
 
 >5.[ Android自定义View的实现方法，带你一步步深入了解View(四)](http://blog.csdn.net/guolin_blog/article/details/17357967)
 
+>6.[Canvas and Drawables
+](http://developer.android.com/intl/zh-cn/guide/topics/graphics/2d-graphics.html)
+
+3.Android touch事件分发机制
+>1.[Managing Touch Events in a ViewGroup](http://developer.android.com/intl/zh-cn/training/gestures/viewgroup.html)
+
+>2.[Android事件分发机制完全解析，带你从源码的角度彻底理解(上)](http://blog.csdn.net/guolin_blog/article/details/9097463)
+
+>3.[Android事件分发机制完全解析，带你从源码的角度彻底理解(下)](http://blog.csdn.net/guolin_blog/article/details/9153747)
+
+>4.[Android事件传递机制](http://ryantang.me/blog/2014/01/02/android-event-dispatch/)
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/JohnTsaiAndroid/androidtips/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
