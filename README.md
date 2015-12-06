@@ -19,6 +19,8 @@ PS：持续更新中(last update date:2015/12/06)
 
 >[六.View](#View)
 
+>[七.XML](#XML)
+
 ##正文
 <h6 id="genymotion">一.模拟器</h6>
 
@@ -93,6 +95,7 @@ PS：持续更新中(last update date:2015/12/06)
 >9.[深入理解Android之Gradle](http://blog.csdn.net/innost/article/details/48228651)
 
 >10.[Android 开发必备知识：我和 Gradle 有个约会(腾讯bugly团队)](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=401572523&idx=1&sn=19504d41b81f82a5388ae4f95072aea5&scene=0#wechat_redirect)
+
 <h6 id="resourceMix">四.资源混淆</h6>
 1.资源混淆有什么好的技术文章?
 
@@ -164,6 +167,26 @@ PS：持续更新中(last update date:2015/12/06)
 >3.[Android事件分发机制完全解析，带你从源码的角度彻底理解(下)](http://blog.csdn.net/guolin_blog/article/details/9153747)
 
 >4.[Android事件传递机制](http://ryantang.me/blog/2014/01/02/android-event-dispatch/)
+
+
+<h6 id="XML">七.XML</h6>
+
+1.为什么在XML代码中有tools命名空间？
+代码如下:
+
+```
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content">     
+       <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="0"/>
+</LinearLayout>
+```
+
+>tools:text，其实就是给ADT用的，用于在design页面能够预览到这个属性的值，但是当实际上运行的时候是看不到这个值的。具体可查看[Designtime Layout Attributes](http://tools.android.com/tips/layout-designtime-attributes) 
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/JohnTsaiAndroid/androidtips/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
