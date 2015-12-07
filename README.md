@@ -4,7 +4,7 @@ A collections of tips in Android developing.
 ##前言
 我们在日常开发中，会遇到各种各样的问题，或大或小。正是通过解决这些问题，使得我们的开发技能得到进步。养成记录的好习惯，方便自己日后查看，也方便广大开发者能找到自己遇到的问题的解决方案。
 
-PS：持续更新中(last update date:2015/12/06)
+PS：持续更新中(last update date:2015/12/07)
 
 ##目录
 >[一.模拟器](#genymotion)
@@ -167,6 +167,13 @@ PS：持续更新中(last update date:2015/12/06)
 >3.[Android事件分发机制完全解析，带你从源码的角度彻底理解(下)](http://blog.csdn.net/guolin_blog/article/details/9153747)
 
 >4.[Android事件传递机制](http://ryantang.me/blog/2014/01/02/android-event-dispatch/)
+
+4.ImageView使用src和background设置图片的区别？
+>1.[http://stackoverflow.com/questions/5454491/what-is-the-difference-between-src-and-background-of-imageview](http://stackoverflow.com/questions/5454491/what-is-the-difference-between-src-and-background-of-imageview)
+
+>2.[Android 中 imageView 的 Src 和 Background
+](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0723/3217.html)
+
 
 
 <h6 id="XML">七.XML</h6>
