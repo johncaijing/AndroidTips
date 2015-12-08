@@ -4,7 +4,7 @@ A collections of tips in Android developing.
 ##前言
 我们在日常开发中，会遇到各种各样的问题，或大或小。正是通过解决这些问题，使得我们的开发技能得到进步。养成记录的好习惯，方便自己日后查看，也方便广大开发者能找到自己遇到的问题的解决方案。
 
-PS：持续更新中(last update date:2015/12/07)
+PS：持续更新中(last update date:2015/12/08)
 
 ##目录
 >[一.模拟器](#genymotion)
@@ -20,6 +20,8 @@ PS：持续更新中(last update date:2015/12/07)
 >[六.View](#View)
 
 >[七.XML](#XML)
+
+>[八.Java](#Java)
 
 ##正文
 <h6 id="genymotion">一.模拟器</h6>
@@ -76,10 +78,13 @@ PS：持续更新中(last update date:2015/12/07)
 
 >1.快速生成get,set代码（Command+N）
 
+5.Android Studio中开启DDMS？
+
+>答:在Android中，依次点击Tools->Android->Android Device Monitor
+
 <h6 id="Gradle">三.Gradle</h6>
 1.Gradle有什么教程?
 
->答:
 
 >1.[Gradle User Guide 中文版](https://dongchuan.gitbooks.io/gradle-user-guide-/content/)
 
@@ -199,6 +204,11 @@ PS：持续更新中(last update date:2015/12/07)
 ```
 
 >tools:text，其实就是给ADT用的，用于在design页面能够预览到这个属性的值，但是当实际上运行的时候是看不到这个值的。具体可查看[Designtime Layout Attributes](http://tools.android.com/tips/layout-designtime-attributes) 
+
+
+<h6 id="XML">八.Java</h6>
+
+>1..[深入理解Java中的final关键字](http://www.importnew.com/7553.html)
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/JohnTsaiAndroid/androidtips/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
