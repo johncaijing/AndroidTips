@@ -71,6 +71,11 @@ PS：持续更新中(last update date:2015/12/07)
 
 更新Android Studio后，Gradle的也得到了更新。cd到gradle文件夹下查看里面gradle文件夹的名字。例如gradle-2.8。然后在Android Studio中依次打开Module Settings->Project，将Gradle version改成和之前文件夹对应的版本。Rebuild项目就好了。
 
+4.Android Studio的常用快捷键？
+>答:
+
+>1.快速生成get,set代码（Command+N）
+
 <h6 id="Gradle">三.Gradle</h6>
 1.Gradle有什么教程?
 
