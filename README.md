@@ -206,7 +206,7 @@ PS：持续更新中(last update date:2015/12/08)
 >tools:text，其实就是给ADT用的，用于在design页面能够预览到这个属性的值，但是当实际上运行的时候是看不到这个值的。具体可查看[Designtime Layout Attributes](http://tools.android.com/tips/layout-designtime-attributes) 
 
 
-<h6 id="XML">八.Java</h6>
+<h6 id="Java">八.Java</h6>
 
 >1..[深入理解Java中的final关键字](http://www.importnew.com/7553.html)
 
