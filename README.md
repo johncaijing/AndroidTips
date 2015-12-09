@@ -4,7 +4,7 @@ A collections of tips in Android developing.
 ##前言
 我们在日常开发中，会遇到各种各样的问题，或大或小。正是通过解决这些问题，使得我们的开发技能得到进步。养成记录的好习惯，方便自己日后查看，也方便广大开发者能找到自己遇到的问题的解决方案。
 
-PS：持续更新中(last update date:2015/12/08)
+PS：持续更新中(last update date:2015/12/09)
 
 ##目录
 >[一.模拟器](#genymotion)
@@ -208,7 +208,11 @@ PS：持续更新中(last update date:2015/12/08)
 
 <h6 id="Java">八.Java</h6>
 
->1..[深入理解Java中的final关键字](http://www.importnew.com/7553.html)
+>1.[深入理解Java中的final关键字](http://www.importnew.com/7553.html)
+
+>2.[Java中==和equals的区别](http://stackoverflow.com/questions/7520432/java-vs-equals-confusion)
+
+>3.[Java中的hashCode()方法和equals()方法](http://www.ibm.com/developerworks/library/j-jtp05273/)
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/JohnTsaiAndroid/androidtips/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
