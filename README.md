@@ -4,7 +4,7 @@ A collections of tips in Android developing.
 ##前言
 我们在日常开发中，会遇到各种各样的问题，或大或小。正是通过解决这些问题，使得我们的开发技能得到进步。养成记录的好习惯，方便自己日后查看，也方便广大开发者能找到自己遇到的问题的解决方案。
 
-PS：持续更新中(last update date:2015/12/09)
+PS：持续更新中(last update date:2015/12/11)
 
 ##目录
 >[一.模拟器](#genymotion)
@@ -106,6 +106,16 @@ PS：持续更新中(last update date:2015/12/09)
 
 >10.[Android 开发必备知识：我和 Gradle 有个约会(腾讯bugly团队)](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=401572523&idx=1&sn=19504d41b81f82a5388ae4f95072aea5&scene=0#wechat_redirect)
 
+2.Gradle在编译的时候报如下错误：Error:Timeout waiting to lock buildscript class cache for build file ，怎么解决？
+
+>答:
+
+>Windows:删除C:\Users\Administrator\.gradle\caches.这个文件夹
+
+>OS X:删除~/.gradle/caches这个文件夹
+
+参考：[http://stackoverflow.com/questions/31784132/errortimeout-waiting-to-lock-buildscript-class-cache-for-build-file-when-change](http://stackoverflow.com/questions/31784132/errortimeout-waiting-to-lock-buildscript-class-cache-for-build-file-when-change)
+
 <h6 id="resourceMix">四.资源混淆</h6>
 1.资源混淆有什么好的技术文章?
 
@@ -177,6 +187,8 @@ PS：持续更新中(last update date:2015/12/09)
 >3.[Android事件分发机制完全解析，带你从源码的角度彻底理解(下)](http://blog.csdn.net/guolin_blog/article/details/9153747)
 
 >4.[Android事件传递机制](http://ryantang.me/blog/2014/01/02/android-event-dispatch/)
+
+>5.[Handling single and multi touch on Android - Tutorial](http://www.vogella.com/tutorials/AndroidTouch/article.html)
 
 4.ImageView使用src和background设置图片的区别？
 >1.[http://stackoverflow.com/questions/5454491/what-is-the-difference-between-src-and-background-of-imageview](http://stackoverflow.com/questions/5454491/what-is-the-difference-between-src-and-background-of-imageview)
