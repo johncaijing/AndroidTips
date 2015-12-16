@@ -4,7 +4,7 @@ A collections of tips in Android developing.
 ##前言
 我们在日常开发中，会遇到各种各样的问题，或大或小。正是通过解决这些问题，使得我们的开发技能得到进步。养成记录的好习惯，方便自己日后查看，也方便广大开发者能找到自己遇到的问题的解决方案。
 
-PS：持续更新中(last update date:2015/12/11)
+PS：持续更新中(last update date:2015/12/16)
 
 ##目录
 >[一.模拟器](#genymotion)
@@ -22,6 +22,10 @@ PS：持续更新中(last update date:2015/12/11)
 >[七.XML](#XML)
 
 >[八.Java](#Java)
+
+>[九.Activity](#Activity)
+
+>[十.优化](#optimize)
 
 ##正文
 <h6 id="genymotion">一.模拟器</h6>
@@ -225,6 +229,11 @@ PS：持续更新中(last update date:2015/12/11)
 >2.[Java中==和equals的区别](http://stackoverflow.com/questions/7520432/java-vs-equals-confusion)
 
 >3.[Java中的hashCode()方法和equals()方法](http://www.ibm.com/developerworks/library/j-jtp05273/)
+
+
+<h6 id="optimize">十.优化</h6>
+
+>1.[Android内存优化杂谈(微信移动客户端开发团队)](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=400656149&idx=1&sn=122b4f4965fafebf78ec0b4fce2ef62a&scene=0&key=ac89cba618d2d9769bc3006ae6f052433e9addebbf0099674296838d889f7d2c4098d859550e3bf2f6b53b3483336fec&ascene=7&uin=MTgxNDQ2NzkyMg%3D%3D&devicetype=android-19&version=26030832&nettype=ctlte&pass_ticket=LuET1X%2BVwvmFOKoypeaRevizrPu8nav3c69WqE2ynS2F%2BUBstsQr9bD%2FYhH3gEAj)
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/JohnTsaiAndroid/androidtips/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
