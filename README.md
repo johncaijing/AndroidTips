@@ -27,6 +27,8 @@ PS：持续更新中(last update date:2015/12/16)
 
 >[十.优化](#optimize)
 
+>[十一.优秀开发资料](#devTools)
+
 ##正文
 <h6 id="genymotion">一.模拟器</h6>
 
@@ -85,6 +87,13 @@ PS：持续更新中(last update date:2015/12/16)
 5.Android Studio中开启DDMS？
 
 >答:在Android中，依次点击Tools->Android->Android Device Monitor
+
+6.Android Studio与Gradle教程
+>答：
+
+>1.[拥抱 Android Studio 之一：从 ADT 到 Android Studio](http://kvh.io/2015/12/01/embrace-android-studio-migration/)
+
+>2.[拥抱 Android Studio 之二：Android Studio 与 Gradle 深入](http://kvh.io/2015/12/17/embrace-android-studio-indepth/)
 
 <h6 id="Gradle">三.Gradle</h6>
 1.Gradle有什么教程?
@@ -236,5 +245,19 @@ PS：持续更新中(last update date:2015/12/16)
 >1.[Android内存优化杂谈(微信移动客户端开发团队)](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=400656149&idx=1&sn=122b4f4965fafebf78ec0b4fce2ef62a&scene=0&key=ac89cba618d2d9769bc3006ae6f052433e9addebbf0099674296838d889f7d2c4098d859550e3bf2f6b53b3483336fec&ascene=7&uin=MTgxNDQ2NzkyMg%3D%3D&devicetype=android-19&version=26030832&nettype=ctlte&pass_ticket=LuET1X%2BVwvmFOKoypeaRevizrPu8nav3c69WqE2ynS2F%2BUBstsQr9bD%2FYhH3gEAj)
 
 
+<h6 id="devTools">十一.优秀开发资料</h6>
+
+>1.如何寻找优秀开源库？
+
+>答：
+
+>1.[codeKK开源库收集网站(由国内Android大牛Trinea)维护)](http://p.codekk.com/)
+
+>2.[查看Github JAVA trending](https://github.com/trending?l=java)
+
+
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/JohnTsaiAndroid/androidtips/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
+##参与维护
+欢迎Pull Request和使用issue
 
