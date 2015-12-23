@@ -4,7 +4,7 @@ A collections of tips in Android developing.
 ##前言
 我们在日常开发中，会遇到各种各样的问题，或大或小。正是通过解决这些问题，使得我们的开发技能得到进步。养成记录的好习惯，方便自己日后查看，也方便广大开发者能找到自己遇到的问题的解决方案。
 
-PS：持续更新中(last update date:2015/12/16)
+PS：持续更新中(last update date:2015/12/23)
 
 ##目录
 >[一.模拟器](#genymotion)
@@ -166,6 +166,8 @@ PS：持续更新中(last update date:2015/12/16)
 
 >12 .[bignerdranch_frame-animations-in-android](https://www.bignerdranch.com/blog/frame-animations-in-android/)
 
+>13 .[Building Meaningful Motion(Plaid作者Android动画演讲分享)](https://photos.google.com/share/AF1QipMRnZL6gNbS06fnBNtKffRm9HBaxW8iP6w0L1T4nZYLI6s3wi_l8daT6mq4nwPf-w?key=LThZNmFXUUtmNi04bWlEYmVfcWdPenlvaDdCRU13)
+
 <h6 id="View">六.View</h6>
 1.View是如何绘制的？
 >1.[How Android Draws Views](http://developer.android.com/intl/zh-cn/guide/topics/ui/how-android-draws.html)
@@ -260,4 +262,7 @@ PS：持续更新中(last update date:2015/12/16)
 
 ##参与维护
 欢迎Pull Request和使用issue
+
+##LICENCE
+MIT
 
