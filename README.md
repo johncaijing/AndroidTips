@@ -281,7 +281,3 @@ Android开发者，手机发烧友。
 
 邮箱:[JohnTsai.Work#gmail.com](mailto:JohnTsai.Work@gmail.com)
 
-##赞助
-如果你有闲钱，可以请我喝杯咖啡
-![](http://ww2.sinaimg.cn/thumbnail/8942f980gw1ez9wec92mlj20go0l8dhj.jpg)
-
