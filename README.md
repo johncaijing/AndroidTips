@@ -29,6 +29,8 @@ PS：持续更新中(last update date:2015/12/23)
 
 >[十一.优秀开发资料](#devTools)
 
+> [十二.值得关注的Android大牛](#greatDeveloper)
+
 ##正文
 <h6 id="genymotion">一.模拟器</h6>
 
@@ -258,6 +260,8 @@ PS：持续更新中(last update date:2015/12/23)
 >2.[查看Github JAVA trending](https://github.com/trending?l=java)
 
 
+<h6 id="greatDeveloper">十二.值得关注的Android大牛</h6>
+
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/JohnTsaiAndroid/androidtips/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 ##参与维护
@@ -265,4 +269,19 @@ PS：持续更新中(last update date:2015/12/23)
 
 ##LICENCE
 MIT
+
+##关于我
+网络ID:JohnTsai
+
+Android开发者，手机发烧友。
+
+我的博客:[http://www.johntsai.xyz](http://www.johntsai.xyz)
+
+博客园博客:[http://www.cnblogs.com/JohnTsai](http://www.cnblogs.com/JohnTsai)
+
+邮箱:[JohnTsai.Work#gmail.com](mailto:JohnTsai.Work@gmail.com)
+
+##赞助
+如果你有闲钱，可以请我喝杯咖啡
+![](http://ww2.sinaimg.cn/thumbnail/8942f980gw1ez9wec92mlj20go0l8dhj.jpg)
 
