@@ -248,6 +248,8 @@ PS：持续更新中(last update date:2015/12/23)
 
 >1.[Android内存优化杂谈(微信移动客户端开发团队)](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=400656149&idx=1&sn=122b4f4965fafebf78ec0b4fce2ef62a&scene=0&key=ac89cba618d2d9769bc3006ae6f052433e9addebbf0099674296838d889f7d2c4098d859550e3bf2f6b53b3483336fec&ascene=7&uin=MTgxNDQ2NzkyMg%3D%3D&devicetype=android-19&version=26030832&nettype=ctlte&pass_ticket=LuET1X%2BVwvmFOKoypeaRevizrPu8nav3c69WqE2ynS2F%2BUBstsQr9bD%2FYhH3gEAj)
 
+>2.[如何提高开发效率?(微信移动客户端开发团队)](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=400785752&idx=1&sn=e1c166e7fad0892811c9ca9bca6d1540&scene=0&key=41ecb04b051110033c2815a97388b84addcfa13da2d8c8fd754bdd21384a795226da667df6a4f1b591c452ccd48d29b8&ascene=0&uin=NTMyODkxMDE1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.11.2+build(15C50)&version=11020201&pass_ticket=ZXGITxr6bbn9Jmjzi5s4TzNgphY7BZ3j7xzQh%2BtYcqRDRivYxSjA1JbKPe1ME1q4)
+
 
 <h6 id="devTools">十一.优秀开发资料</h6>
 
