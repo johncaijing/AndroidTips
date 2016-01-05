@@ -257,14 +257,16 @@ PS：持续更新中(last update date:2015/12/23)
 
 >答：
 
->1.[codeKK开源库收集网站(由国内Android大牛Trinea)维护)](http://p.codekk.com/)
+>* 1.[codeKK开源库收集网站(由国内Android大牛Trinea)维护)](http://p.codekk.com/)
+>* 2.[查看Github JAVA trending](https://github.com/trending?l=java)
 
->2.[查看Github JAVA trending](https://github.com/trending?l=java)
-
->3.[在线查看Android源码的网站(http://grepcode.com/project/repository.grepcode.com/java/ext/com.google.android/android/)](http://grepcode.com/project/repository.grepcode.com/java/ext/com.google.android/android/)
+>2.[在线查看Android源码的网站(http://grepcode.com/project/repository.grepcode.com/java/ext/com.google.android/android/)](http://grepcode.com/project/repository.grepcode.com/java/ext/com.google.android/android/)
 
 
 <h6 id="greatDeveloper">十二.值得关注的Android大牛</h6>
+>[国外](https://github.com/android-cn/android-dev-com)
+>
+>[国内](https://github.com/android-cn/android-dev-cn)
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/JohnTsaiAndroid/androidtips/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
