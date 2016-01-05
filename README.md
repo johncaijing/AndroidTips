@@ -97,6 +97,8 @@ PS：持续更新中(last update date:2015/12/23)
 
 >2.[拥抱 Android Studio 之二：Android Studio 与 Gradle 深入](http://kvh.io/2015/12/17/embrace-android-studio-indepth/)
 
+>3.[拥抱 Android Studio 之三：溯源，Groovy 与 Gradle 基础](http://kvh.io/2016/01/04/embrace-android-studio-groovy-gradle/)
+
 <h6 id="Gradle">三.Gradle</h6>
 1.Gradle有什么教程?
 
