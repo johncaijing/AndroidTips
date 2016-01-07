@@ -133,6 +133,11 @@ PS：持续更新中(last update date:2015/12/23)
 
 参考：[http://stackoverflow.com/questions/31784132/errortimeout-waiting-to-lock-buildscript-class-cache-for-build-file-when-change](http://stackoverflow.com/questions/31784132/errortimeout-waiting-to-lock-buildscript-class-cache-for-build-file-when-change)
 
+3.什么是Gradle，为什么在Android Studio中引进Gradle?
+>答：
+
+[http://stackoverflow.com/questions/16754643/what-is-gradle-in-android-studio](http://stackoverflow.com/questions/16754643/what-is-gradle-in-android-studio)
+
 <h6 id="resourceMix">四.资源混淆</h6>
 1.资源混淆有什么好的技术文章?
 
