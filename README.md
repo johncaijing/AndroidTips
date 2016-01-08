@@ -23,7 +23,7 @@ PS：持续更新中(last update date:2015/12/23)
 
 >[八.Java](#Java)
 
->[九.Activity](#Activity)
+>[九.混淆](#obfuscate)
 
 >[十.优化](#optimize)
 
@@ -250,6 +250,14 @@ PS：持续更新中(last update date:2015/12/23)
 
 >3.[Java中的hashCode()方法和equals()方法](http://www.ibm.com/developerworks/library/j-jtp05273/)
 
+<h6 id="obfuscate">九.混淆</h6>
+>1. Android混淆有什么资料教程?
+
+>答:
+
+>* 1.[Android官方混淆教程](http://developer.android.com/tools/help/proguard.html)
+
+>* 2.[ProGuard官方教程](http://proguard.sourceforge.net/manual/examples.html)
 
 <h6 id="optimize">十.优化</h6>
 
