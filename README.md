@@ -31,6 +31,8 @@ PS：持续更新中(last update date:2016-01-12)
 
 > [十二.值得关注的Android大牛](#greatDeveloper)
 
+> [十三.Canvas](#Canvas) 
+
 ##正文
 <h6 id="genymotion">一.模拟器</h6>
 
@@ -280,11 +282,26 @@ PS：持续更新中(last update date:2016-01-12)
 >* 1.[http://grepcode.com/project/repository.grepcode.com/java/ext/com.google.android/android/](http://grepcode.com/project/repository.grepcode.com/java/ext/com.google.android/android/)
 >* 2.[https://github.com/android](https://github.com/android)
 
+>3.在线Android书籍:
+
+>* 1.[Android 实战技巧http://wiki.jikexueyuan.com/project/android-actual-combat-skills/](http://wiki.jikexueyuan.com/project/android-actual-combat-skills/)
+
 
 <h6 id="greatDeveloper">十二.值得关注的Android大牛</h6>
 >[国外](https://github.com/android-cn/android-dev-com)
 >
 >[国内](https://github.com/android-cn/android-dev-cn)
+>
+
+>**CSDN**
+
+>* 1.[郭霖](http://blog.csdn.net/guolin_blog)
+>* 2.[任玉刚](http://blog.csdn.net/singwhatiwanna)
+>* 3.[张鸿洋](http://blog.csdn.net/lmj623565791)
+>* 4.[罗升阳*](http://blog.csdn.net/Luoshengyang/)
+
+> (PS:*表示Android系统研究)
+<h6 id="Canvas">十三.Canvas</h6>
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/JohnTsaiAndroid/androidtips/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
