@@ -13,7 +13,7 @@ public class TimeUpdater {
     private String fileName;
     private String dateString;
 
-    private static final String formatStr = "yyyy-MM-dd";
+    private static final String formatStr = "yyyy-MM-dd kk:mm";
 
     public TimeUpdater(String fileName){
         this.fileName = fileName;
@@ -48,7 +48,7 @@ public class TimeUpdater {
     public void update(){
         String str = read();
         System.out.println(dateString);
-        String updateStr= str.replaceFirst("[0-9]{4}-[0-9]{2}-[0-9]{2}", this.dateString);
+        String updateStr= str.replaceFirst("[0-9]{4}-[0-9]{2}-[0-9]{2}\\s[0-9]{2}:[0-9]{2}", this.dateString);
         write(updateStr);
     }
 
