@@ -35,6 +35,8 @@ PS：持续更新中(last update date:2016-01-13 13:41)
 
 > [十四.学习方法总结](#howToLearn)
 
+> [十五.Kotlin](#kotlin) 
+
 ##正文
 <h6 id="genymotion">一.模拟器</h6>
 
@@ -288,6 +290,8 @@ PS：持续更新中(last update date:2016-01-13 13:41)
 
 >* 1.[Android 实战技巧http://wiki.jikexueyuan.com/project/android-actual-combat-skills/](http://wiki.jikexueyuan.com/project/android-actual-combat-skills/)
 
+>* 2.[《Kotlin for android developers》中文版](https://wangjiegulu.gitbooks.io/kotlin-for-android-developers-zh/content/index.html)
+
 
 <h6 id="greatDeveloper">十二.值得关注的Android大牛</h6>
 >[国外](https://github.com/android-cn/android-dev-com)
@@ -317,7 +321,7 @@ PS：持续更新中(last update date:2016-01-13 13:41)
 
 >3.[Android学习之路](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/JohnTsaiAndroid/androidtips/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+<h6 id="kotlin">十五.Kotlin</h6>
 
 ##参与维护
 欢迎Pull Request和使用issue
