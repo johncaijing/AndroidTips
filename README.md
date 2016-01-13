@@ -4,7 +4,7 @@ A collections of tips in Android developing.
 ##前言
 我们在日常开发中，会遇到各种各样的问题，或大或小。正是通过解决这些问题，使得我们的开发技能得到进步。养成记录的好习惯，方便自己日后查看，也方便广大开发者能找到自己遇到的问题的解决方案。
 
-PS：持续更新中(last update date:2016-01-12 20:06)
+PS：持续更新中(last update date:2016-01-13 09:57)
 
 ##目录
 >[一.模拟器](#genymotion)
@@ -32,6 +32,8 @@ PS：持续更新中(last update date:2016-01-12 20:06)
 > [十二.值得关注的Android大牛](#greatDeveloper)
 
 > [十三.Canvas](#Canvas) 
+
+> [十四.学习方法总结](#howToLearn)
 
 ##正文
 <h6 id="genymotion">一.模拟器</h6>
@@ -304,6 +306,14 @@ PS：持续更新中(last update date:2016-01-12 20:06)
 
 
 <h6 id="Canvas">十三.Canvas</h6>
+
+
+<h6 id="howToLearn">十四.学习方法/路线总结</h6>
+>1.[Android学习进阶路线导航线路](http://blog.csdn.net/qinjuning/article/details/7416208)
+
+>2.[ Android学习路线指南](http://blog.csdn.net/singwhatiwanna/article/details/49560409)
+
+>3.[Android学习之路](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/JohnTsaiAndroid/androidtips/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
