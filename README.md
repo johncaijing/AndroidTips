@@ -4,7 +4,7 @@ A collections of tips in Android developing.
 ##前言
 我们在日常开发中，会遇到各种各样的问题，或大或小。正是通过解决这些问题，使得我们的开发技能得到进步。养成记录的好习惯，方便自己日后查看，也方便广大开发者能找到自己遇到的问题的解决方案。
 
-PS：持续更新中(last update date:2016-01-13 09:57)
+PS：持续更新中(last update date:2016-01-13 10:14)
 
 ##目录
 >[一.模拟器](#genymotion)
@@ -306,7 +306,9 @@ PS：持续更新中(last update date:2016-01-13 09:57)
 
 
 <h6 id="Canvas">十三.Canvas</h6>
+>1.Canvas相关的教程:
 
+>* 1.[Canvas and Drawables(Android官方教程)](http://developer.android.com/guide/topics/graphics/2d-graphics.html)
 
 <h6 id="howToLearn">十四.学习方法/路线总结</h6>
 >1.[Android学习进阶路线导航线路](http://blog.csdn.net/qinjuning/article/details/7416208)
