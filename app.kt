@@ -3,6 +3,6 @@
  */
 
 fun main(args:Array<String>){
-   val timeUpdaterK:TimeUpdaterK = TimeUpdaterK("/Users/JohnTsai/Downloads/AndroidTips/README.md")
-    timeUpdaterK.update()
+   val timeUpdaterK:TimeUpdaterK = TimeUpdaterK("./README.md")
+   timeUpdaterK.update()
 }
