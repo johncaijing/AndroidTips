@@ -293,6 +293,13 @@ PS：持续更新中(last update date:2016-01-13 13:41)
 >* 2.[《Kotlin for android developers》中文版](https://wangjiegulu.gitbooks.io/kotlin-for-android-developers-zh/content/index.html)
 
 
+
+>4.程序员的读书清单
+
+>答:
+
+>* 1.[程序员必读书单 1.0(作者:Lucida,Google大牛)](http://zh.lucida.me/blog/developer-reading-list/)
+
 <h6 id="greatDeveloper">十二.值得关注的Android大牛</h6>
 >[国外](https://github.com/android-cn/android-dev-com)
 >
