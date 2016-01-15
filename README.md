@@ -328,6 +328,14 @@ PS：持续更新中(last update date:2016-01-15 13:41)
 >* 3.[RomainGuy(Work@Google)](https://plus.google.com/+RomainGuy)
 >* 4.[NickButcher(Work@Google)](https://plus.google.com/+NickButcher)
 
+>**公司技术团队**
+
+>* 1.[美团点评技术团队](http://tech.meituan.com/)
+>* 2.[Glow 技术团队博客](http://tech.glowing.com/cn/)
+>* 3.[蘑菇街技术博客](http://mogu.io/)
+>* 4.[腾讯bugly团队](http://bugly.qq.com/blog/)
+>* 5.[腾讯ISUX团队](http://isux.tencent.com/)
+
 <h6 id="Canvas">十三.Canvas</h6>
 >1.Canvas相关的教程:
 
