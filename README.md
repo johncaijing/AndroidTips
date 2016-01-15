@@ -287,12 +287,13 @@ PS：持续更新中(last update date:2016-01-15 13:41)
 >* 1.[http://grepcode.com/project/repository.grepcode.com/java/ext/com.google.android/android/](http://grepcode.com/project/repository.grepcode.com/java/ext/com.google.android/android/)
 >* 2.[https://github.com/android](https://github.com/android)
 
->3.在线Android书籍:
+>3.在线书籍:
 
->* 1.[Android 实战技巧http://wiki.jikexueyuan.com/project/android-actual-combat-skills/](http://wiki.jikexueyuan.com/project/android-actual-combat-skills/)
+>* 1.[Android 实战技巧](http://wiki.jikexueyuan.com/project/android-actual-combat-skills/)
 
 >* 2.[《Kotlin for android developers》中文版](https://wangjiegulu.gitbooks.io/kotlin-for-android-developers-zh/content/index.html)
 
+>* 3.[RxJava Essentials 中文翻译版](https://github.com/yuxingxin/RxJava-Essentials-CN)
 
 
 >4.程序员的读书清单
