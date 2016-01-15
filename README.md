@@ -4,7 +4,7 @@ A collections of tips in Android developing.
 ##前言
 我们在日常开发中，会遇到各种各样的问题，或大或小。正是通过解决这些问题，使得我们的开发技能得到进步。养成记录的好习惯，方便自己日后查看，也方便广大开发者能找到自己遇到的问题的解决方案。
 
-PS：持续更新中(last update date:2016-01-14 19:27)
+PS：持续更新中(last update date:2016-01-15 13:41)
 
 ##目录
 >[一.模拟器](#genymotion)
@@ -307,6 +307,8 @@ PS：持续更新中(last update date:2016-01-14 19:27)
 >[国内](https://github.com/android-cn/android-dev-cn)
 >
 
+---
+
 >**CSDN**
 
 >* 1.[郭霖](http://blog.csdn.net/guolin_blog)
@@ -316,6 +318,14 @@ PS：持续更新中(last update date:2016-01-14 19:27)
 
 > (PS:*表示Android系统研究)
 
+>**微信公众号**
+
+>**Google+**
+
+>* 1.[JakeWharton(Work@Square)](https://plus.google.com/+JakeWharton)
+>* 2.[CyrilMottier](https://plus.google.com/+CyrilMottier)
+>* 3.[RomainGuy(Work@Google)](https://plus.google.com/+RomainGuy)
+>* 4.[NickButcher(Work@Google)](https://plus.google.com/+NickButcher)
 
 <h6 id="Canvas">十三.Canvas</h6>
 >1.Canvas相关的教程:
