@@ -14,23 +14,23 @@ import kotlin.text.Regex
  */
 class TimeUpdaterK{
      //变量
-     private var _fileName:String = ""
-     private var _dateString:String= ""
+     private var _fileName = ""
+     private var _dateString = ""
 
      //常量
-    private val formatDateString:String = "yyyy-MM-dd kk:mm"
-    private val regexString:String = "[0-9]{4}-[0-9]{2}-[0-9]{2}\\s[0-9]{2}-[0-9]{2}"
+    private val formatDateString = "yyyy-MM-dd kk:mm"
+    private val regexString = "[0-9]{4}-[0-9]{2}-[0-9]{2}\\s[0-9]{2}-[0-9]{2}"
 
     //函数声明与实现
     fun getDateString(date:Date):String{
-        var sdf:SimpleDateFormat =  SimpleDateFormat(formatDateString)
+        var sdf =  SimpleDateFormat(formatDateString)
         return sdf.format(date)
     }
 
     //构造方法
     constructor(fileName:String){
         _fileName = fileName
-        val date:Date = Date()
+        val date = Date()
         _dateString = getDateString(date)
     }
 
@@ -65,3 +65,7 @@ class TimeUpdaterK{
     }
 }
 
+fun main(args:Array<String>){
+   val timeUpdaterK:TimeUpdaterK = TimeUpdaterK("./README.md")
+   timeUpdaterK.update()
+}
