@@ -4,7 +4,7 @@ A collections of tips in Android developing.
 ##前言
 我们在日常开发中，会遇到各种各样的问题，或大或小。正是通过解决这些问题，使得我们的开发技能得到进步。养成记录的好习惯，方便自己日后查看，也方便广大开发者能找到自己遇到的问题的解决方案。
 
-PS：持续更新中(last update date:2016-01-18 14:34)
+PS：持续更新中(last update date:2016-01-19 11:11)
 
 ##目录
 >[一.模拟器](#genymotion)
@@ -326,6 +326,9 @@ PS：持续更新中(last update date:2016-01-18 14:34)
 >* 3.手机淘宝技术团队MTT（AlibabaMTT）
 >* 4.腾讯bugly(weixinBugly)
 >* 5.微信移动客户端团队（WeMobileDev）
+>* 6.好东西传送门(awesomeport)
+
+> 注:括号内为微信号
 
 
 >**Google+**
