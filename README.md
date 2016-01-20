@@ -347,6 +347,13 @@ PS：持续更新中(last update date:2016-01-19 11:11)
 >* 5.[腾讯ISUX团队](http://isux.tencent.com/)
 >* 6.[BigNerdRanch团队（国外著名培训机构）](https://www.bignerdranch.com/blog/)
 
+>**Android开发技术资讯网站**
+
+>* 1.[干货集中营gank.io](http://gank.io)
+>* 2.[稀土掘金](http://gold.xitu.io/#/)
+>* 3.[Android Weekly](http://androidweekly.net/)
+
+
 <h6 id="Canvas">十三.Canvas</h6>
 >1.Canvas相关的教程:
 
