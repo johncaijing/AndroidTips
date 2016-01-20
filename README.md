@@ -345,6 +345,7 @@ PS：持续更新中(last update date:2016-01-19 11:11)
 >* 3.[蘑菇街技术博客](http://mogu.io/)
 >* 4.[腾讯bugly团队](http://bugly.qq.com/blog/)
 >* 5.[腾讯ISUX团队](http://isux.tencent.com/)
+>* 6.[BigNerdRanch团队（国外著名培训机构）](https://www.bignerdranch.com/blog/)
 
 <h6 id="Canvas">十三.Canvas</h6>
 >1.Canvas相关的教程:
