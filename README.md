@@ -367,6 +367,9 @@ PS：持续更新中(last update date:2016-01-19 11:11)
 >3.[Android学习之路](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
 
 <h6 id="kotlin">十五.Kotlin</h6>
+>1. [Kotlin官网](https://kotlinlang.org/)
+
+>2. [Kotlin官网（中文版）](http://kotlinlang.cn/)
 
 ##参与维护
 欢迎Pull Request和使用issue
