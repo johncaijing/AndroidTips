@@ -4,7 +4,7 @@ A collections of tips in Android developing.
 ##前言
 我们在日常开发中，会遇到各种各样的问题，或大或小。正是通过解决这些问题，使得我们的开发技能得到进步。养成记录的好习惯，方便自己日后查看，也方便广大开发者能找到自己遇到的问题的解决方案。
 
-PS：持续更新中(last update date:2016-01-19 11:11)
+PS：持续更新中(last update date:2016-01-25 10:54)
 
 ##目录
 >[一.模拟器](#genymotion)
@@ -91,6 +91,7 @@ PS：持续更新中(last update date:2016-01-19 11:11)
 >答:
 
 >1.快速生成get,set代码（Command+N）
+>2.查找方法(Find Action)(Command+Shift+A)
 
 5.Android Studio中开启DDMS？
 
@@ -291,7 +292,7 @@ PS：持续更新中(last update date:2016-01-19 11:11)
 
 >* 1.[Android 实战技巧](http://wiki.jikexueyuan.com/project/android-actual-combat-skills/)
 
->* 2.[《Kotlin for android developers》中文版](https://wangjiegulu.gitbooks.io/kotlin-for-android-developers-zh/content/index.html)
+>* 2.[《Kotlin for android developers》中文版](https://wangjiegulu.gitbooks.io/kotlin-for-android-developers-zh/content/)
 
 >* 3.[RxJava Essentials 中文翻译版](https://github.com/yuxingxin/RxJava-Essentials-CN)
 
@@ -346,6 +347,7 @@ PS：持续更新中(last update date:2016-01-19 11:11)
 >* 4.[腾讯bugly团队](http://bugly.qq.com/blog/)
 >* 5.[腾讯ISUX团队](http://isux.tencent.com/)
 >* 6.[BigNerdRanch团队（国外著名培训机构）](https://www.bignerdranch.com/blog/)
+>* 7.[ IBM developerworks(Java)](http://www.ibm.com/developerworks/cn/java/)
 
 >**Android开发技术资讯网站**
 
