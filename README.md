@@ -4,7 +4,7 @@ A collections of tips in Android developing.
 ##前言
 我们在日常开发中，会遇到各种各样的问题，或大或小。正是通过解决这些问题，使得我们的开发技能得到进步。养成记录的好习惯，方便自己日后查看，也方便广大开发者能找到自己遇到的问题的解决方案。
 
-PS：持续更新中(last update date:2016-01-25 10:54)
+PS：持续更新中(last update date:2016-01-26 22:05)
 
 ##目录
 >[一.模拟器](#genymotion)
@@ -36,6 +36,8 @@ PS：持续更新中(last update date:2016-01-25 10:54)
 > [十四.学习方法总结](#howToLearn)
 
 > [十五.Kotlin](#kotlin) 
+
+> [十六.Android四大组件](#AndroidComponent)
 
 ##正文
 <h6 id="genymotion">一.模拟器</h6>
@@ -91,6 +93,7 @@ PS：持续更新中(last update date:2016-01-25 10:54)
 >答:
 
 >1.快速生成get,set代码（Command+N）
+
 >2.查找方法(Find Action)(Command+Shift+A)
 
 5.Android Studio中开启DDMS？
@@ -292,9 +295,7 @@ PS：持续更新中(last update date:2016-01-25 10:54)
 
 >* 1.[Android 实战技巧](http://wiki.jikexueyuan.com/project/android-actual-combat-skills/)
 
->* 2.[《Kotlin for android developers》中文版](https://wangjiegulu.gitbooks.io/kotlin-for-android-developers-zh/content/)
-
->* 3.[RxJava Essentials 中文翻译版](https://github.com/yuxingxin/RxJava-Essentials-CN)
+>* 2.[RxJava Essentials 中文翻译版](https://github.com/yuxingxin/RxJava-Essentials-CN)
 
 
 >4.程序员的读书清单
@@ -370,8 +371,21 @@ PS：持续更新中(last update date:2016-01-25 10:54)
 
 <h6 id="kotlin">十五.Kotlin</h6>
 >1. [Kotlin官网](https://kotlinlang.org/)
-
 >2. [Kotlin官网（中文版）](http://kotlinlang.cn/)
+>3. [《Kotlin for android developers》中文版](https://wangjiegulu.gitbooks.io/kotlin-for-android-developers-zh/content/)
+
+
+<h6 id="AndroidComponent">十六.Android四大组件</h6>
+>1.Activity
+
+>2.Service
+
+>* [Android Service完全解析，关于服务你所需知道的一切(上)](http://blog.csdn.net/guolin_blog/article/details/11952435)
+>* [Android Service完全解析，关于服务你所需知道的一切(下)](http://blog.csdn.net/guolin_blog/article/details/9797169)
+
+>3.ContentProvider
+
+>4.BroadcastReceriver
 
 ##参与维护
 欢迎Pull Request和使用issue
