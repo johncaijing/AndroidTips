@@ -13,7 +13,7 @@ PS：持续更新中(last update date:2016-01-26 22:05)
 
 >[三.Gradle](#Gradle)
 
->[四.资源混淆](#resourceMix)
+> [四.Android四大组件](#AndroidComponent)
 
 >[五.动画](#animation)
 
@@ -37,7 +37,6 @@ PS：持续更新中(last update date:2016-01-26 22:05)
 
 > [十五.Kotlin](#kotlin) 
 
-> [十六.Android四大组件](#AndroidComponent)
 
 ##正文
 <h6 id="genymotion">一.模拟器</h6>
@@ -148,14 +147,18 @@ PS：持续更新中(last update date:2016-01-26 22:05)
 
 [http://stackoverflow.com/questions/16754643/what-is-gradle-in-android-studio](http://stackoverflow.com/questions/16754643/what-is-gradle-in-android-studio)
 
-<h6 id="resourceMix">四.资源混淆</h6>
-1.资源混淆有什么好的技术文章?
+<h6 id="AndroidComponent">四.Android四大组件</h6>
+>1.Activity
 
->答:
+>2.Service
 
->1.[美团Android资源混淆保护实践](http://tech.meituan.com/mt-android-resource-obfuscation.html)
+>* [Android Service完全解析，关于服务你所需知道的一切(上)](http://blog.csdn.net/guolin_blog/article/details/11952435)
+>* [Android Service完全解析，关于服务你所需知道的一切(下)](http://blog.csdn.net/guolin_blog/article/details/9797169)
+>* [Services(Android官方教程)](http://developer.android.com/guide/components/services.html)
 
->2.[安装包立减1M--微信Android资源混淆打包工具](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=208135658&idx=1&sn=ac9bd6b4927e9e82f9fa14e396183a8f&scene=23&srcid=1012zDgw2RHFIoV0NLKVHhbT#rd)
+>3.ContentProvider
+
+>4.BroadcastReceriver
 
 <h6 id="animation">五.动画</h6>
 1.关于动画有什么教程?
@@ -269,6 +272,15 @@ PS：持续更新中(last update date:2016-01-26 22:05)
 
 >* 2.[ProGuard官方教程](http://proguard.sourceforge.net/manual/examples.html)
 
+2.资源混淆有什么好的技术文章?
+
+>答:
+
+>1.[美团Android资源混淆保护实践](http://tech.meituan.com/mt-android-resource-obfuscation.html)
+
+>2.[安装包立减1M--微信Android资源混淆打包工具](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=208135658&idx=1&sn=ac9bd6b4927e9e82f9fa14e396183a8f&scene=23&srcid=1012zDgw2RHFIoV0NLKVHhbT#rd)
+
+
 <h6 id="optimize">十.优化</h6>
 
 >1.[Android内存优化杂谈(微信移动客户端开发团队)](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=400656149&idx=1&sn=122b4f4965fafebf78ec0b4fce2ef62a&scene=0&key=ac89cba618d2d9769bc3006ae6f052433e9addebbf0099674296838d889f7d2c4098d859550e3bf2f6b53b3483336fec&ascene=7&uin=MTgxNDQ2NzkyMg%3D%3D&devicetype=android-19&version=26030832&nettype=ctlte&pass_ticket=LuET1X%2BVwvmFOKoypeaRevizrPu8nav3c69WqE2ynS2F%2BUBstsQr9bD%2FYhH3gEAj)
@@ -375,18 +387,7 @@ PS：持续更新中(last update date:2016-01-26 22:05)
 >3. [《Kotlin for android developers》中文版](https://wangjiegulu.gitbooks.io/kotlin-for-android-developers-zh/content/)
 
 
-<h6 id="AndroidComponent">十六.Android四大组件</h6>
->1.Activity
 
->2.Service
-
->* [Android Service完全解析，关于服务你所需知道的一切(上)](http://blog.csdn.net/guolin_blog/article/details/11952435)
->* [Android Service完全解析，关于服务你所需知道的一切(下)](http://blog.csdn.net/guolin_blog/article/details/9797169)
->* [Services(Android官方教程)](http://developer.android.com/guide/components/services.html)
-
->3.ContentProvider
-
->4.BroadcastReceriver
 
 ##参与维护
 欢迎Pull Request和使用issue
