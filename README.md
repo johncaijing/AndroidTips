@@ -382,6 +382,7 @@ PS：持续更新中(last update date:2016-01-26 22:05)
 
 >* [Android Service完全解析，关于服务你所需知道的一切(上)](http://blog.csdn.net/guolin_blog/article/details/11952435)
 >* [Android Service完全解析，关于服务你所需知道的一切(下)](http://blog.csdn.net/guolin_blog/article/details/9797169)
+>* [Services(Android官方教程)](http://developer.android.com/guide/components/services.html)
 
 >3.ContentProvider
 
