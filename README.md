@@ -4,7 +4,7 @@ A collections of tips in Android developing.
 ##前言
 我们在日常开发中，会遇到各种各样的问题，或大或小。正是通过解决这些问题，使得我们的开发技能得到进步。养成记录的好习惯，方便自己日后查看，也方便广大开发者能找到自己遇到的问题的解决方案。
 
-PS：持续更新中(last update date:2016-01-26 22:05)
+PS：持续更新中(last update date:2016-01-31 21:02)
 
 ##目录
 >[一.模拟器](#genymotion)
@@ -369,6 +369,7 @@ PS：持续更新中(last update date:2016-01-26 22:05)
 >* 1.[干货集中营gank.io](http://gank.io)
 >* 2.[稀土掘金](http://gold.xitu.io/#/)
 >* 3.[Android Weekly](http://androidweekly.net/)
+>* 4.[AndroidHive（一个针对初学者的Android开发的教程、贴士，小技巧等的英文网站）](http://www.androidhive.info/)
 
 
 <h6 id="Canvas">十三.Canvas</h6>
