@@ -4,7 +4,7 @@ A collections of tips in Android developing.
 ##前言
 我们在日常开发中，会遇到各种各样的问题，或大或小。正是通过解决这些问题，使得我们的开发技能得到进步。养成记录的好习惯，方便自己日后查看，也方便广大开发者能找到自己遇到的问题的解决方案。
 
-PS：持续更新中(last update date:2016-01-31 21:02)
+PS：持续更新中(last update date:2016-02-01 13:38)
 
 ##目录
 >[一.模拟器](#genymotion)
@@ -37,6 +37,7 @@ PS：持续更新中(last update date:2016-01-31 21:02)
 
 > [十五.Kotlin](#kotlin) 
 
+> [十六.MaterialDesign](#MD)
 
 ##正文
 <h6 id="genymotion">一.模拟器</h6>
@@ -265,6 +266,8 @@ PS：持续更新中(last update date:2016-01-31 21:02)
 
 >3.[Java中的hashCode()方法和equals()方法](http://www.ibm.com/developerworks/library/j-jtp05273/)
 
+>4.[Java资源大全中文版(awesome-java-cn)](https://github.com/jobbole/awesome-java-cn)
+
 <h6 id="obfuscate">九.混淆</h6>
 >1. Android混淆有什么资料教程?
 
@@ -390,7 +393,7 @@ PS：持续更新中(last update date:2016-01-31 21:02)
 >3. [《Kotlin for android developers》中文版](https://wangjiegulu.gitbooks.io/kotlin-for-android-developers-zh/content/)
 
 
-
+<h6 id="MD">十六.MaterialDesign</h6>
 
 ##参与维护
 欢迎Pull Request和使用issue
