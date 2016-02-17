@@ -84,6 +84,8 @@ PS：持续更新中(last update date:2016-02-01 13:38)
 
 >[http://www.developerphil.com/android-studio-tips-of-the-day-roundup-6/](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-6/)
 
+>[上述Android Studio技巧的中文版](http://laobie.github.io/android/2016/02/14/android-studio-tips.html)
+
 3.更新Android Studio报如下错误如何解决？
 >Android Studio: Error:/android-studio/gradle/gradle-2.4/lib/plugins/gradle-diagnostics-2.4.jar (No such file or directory)
 
@@ -302,6 +304,7 @@ PS：持续更新中(last update date:2016-02-01 13:38)
 
 >* 1.[codeKK开源库收集网站(由国内Android大牛Trinea)维护)](http://p.codekk.com/)
 >* 2.[查看Github JAVA trending](https://github.com/trending?l=java)
+>* 3.[Android Arsenal](http://android-arsenal.com/)
 
 >2.在线查看Android源码的网站:
 
@@ -373,6 +376,10 @@ PS：持续更新中(last update date:2016-02-01 13:38)
 >* 2.[稀土掘金](http://gold.xitu.io/#/)
 >* 3.[Android Weekly](http://androidweekly.net/)
 >* 4.[AndroidHive（一个针对初学者的Android开发的教程、贴士，小技巧等的英文网站）](http://www.androidhive.info/)
+
+>**个人独立博客**
+
+>* 1.[]()
 
 
 <h6 id="Canvas">十三.Canvas</h6>
