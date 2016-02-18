@@ -69,6 +69,8 @@ PS：持续更新中(last update date:2016-02-01 13:38)
 
 > 5>.[Android WiFi ADB](https://github.com/pedrovgs/AndroidWiFiADB) 使用WiFi连接而不需要USB连接Android设备达到安装、运行、调试应用的目的。
 
+> 6>.[simpleUMLCE](https://plugins.jetbrains.com/plugin/4946?pr=) 自动生成类图
+
 2.Android Studio提升效率的技巧文章
 >答:
 
