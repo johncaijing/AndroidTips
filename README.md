@@ -39,6 +39,8 @@ PS：持续更新中(last update date:2016-02-01 13:38)
 
 > [十六.MaterialDesign](#MD)
 
+> [十七.自学资料](#selfStudy)
+
 ##正文
 <h6 id="genymotion">一.模拟器</h6>
 
@@ -403,6 +405,12 @@ PS：持续更新中(last update date:2016-02-01 13:38)
 
 
 <h6 id="MD">十六.MaterialDesign</h6>
+
+<h6 id="selfStudy">十七.自学资料</h6>
+
+>1. [Android开发官方文档（英文版）](http://developer.android.com/training/index.html)
+
+>2. [Android开发中文文档](http://hukai.me/android-training-course-in-chinese/index.html)
 
 ##参与维护
 欢迎Pull Request和使用issue
