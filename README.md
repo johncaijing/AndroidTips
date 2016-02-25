@@ -242,6 +242,10 @@ PS：持续更新中(last update date:2016-02-24 13:51)
 >2.[Android 中 imageView 的 Src 和 Background
 ](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0723/3217.html)
 
+5. View中onTouch和onTouchEvent的区别？
+
+> 1.[http://stackoverflow.com/questions/5002049/ontouchevent-vs-ontouch](http://stackoverflow.com/questions/5002049/ontouchevent-vs-ontouch)
+
 
 
 <h6 id="XML">七.XML</h6>
