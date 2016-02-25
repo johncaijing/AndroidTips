@@ -4,7 +4,7 @@ A collections of tips in Android developing.
 ##前言
 我们在日常开发中，会遇到各种各样的问题，或大或小。正是通过解决这些问题，使得我们的开发技能得到进步。养成记录的好习惯，方便自己日后查看，也方便广大开发者能找到自己遇到的问题的解决方案。
 
-PS：持续更新中(last update date:2016-02-24 13:51)
+PS：持续更新中(last update date:2016-02-25 09:50)
 
 ##目录
 >[一.模拟器](#genymotion)
@@ -242,8 +242,7 @@ PS：持续更新中(last update date:2016-02-24 13:51)
 >2.[Android 中 imageView 的 Src 和 Background
 ](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0723/3217.html)
 
-5. View中onTouch和onTouchEvent的区别？
-
+5.View中onTouch和onTouchEvent的区别？
 > 1.[http://stackoverflow.com/questions/5002049/ontouchevent-vs-ontouch](http://stackoverflow.com/questions/5002049/ontouchevent-vs-ontouch)
 
 
