@@ -4,7 +4,7 @@ A collections of tips in Android developing.
 ##前言
 我们在日常开发中，会遇到各种各样的问题，或大或小。正是通过解决这些问题，使得我们的开发技能得到进步。养成记录的好习惯，方便自己日后查看，也方便广大开发者能找到自己遇到的问题的解决方案。
 
-PS：持续更新中(last update date:2016-02-25 09:50)
+PS：持续更新中(last update date:2016-02-27 13:36)
 
 ##目录
 >[一.模拟器](#genymotion)
@@ -383,6 +383,16 @@ PS：持续更新中(last update date:2016-02-25 09:50)
 >* 2.[稀土掘金](http://gold.xitu.io/#/)
 >* 3.[Android Weekly](http://androidweekly.net/)
 >* 4.[AndroidHive（一个针对初学者的Android开发的教程、贴士，小技巧等的英文网站）](http://www.androidhive.info/)
+
+>**Github上那些值得关注的公司组织**
+
+>* 1.[Google(谷歌)](https://github.com/google)
+>* 2.[Excilys(作品有著名的Android注入框架AndroidAnnotation)](https://github.com/excilys)
+>* 3.[Alibaba(阿里)](https://github.com/alibaba)
+>* 4.[Square(作品有著名的Android网络框架OkHttp,Retrofit)](https://github.com/square)
+>* 5.[TecentOpen(腾讯)](https://github.com/TencentOpen)
+>* 6.[500-px](https://github.com/500px)
+
 
 >**个人独立博客**
 
