@@ -333,6 +333,10 @@ PS：持续更新中(last update date:2016-02-27 13:36)
 
 >* 1.[程序员必读书单 1.0(作者:Lucida,Google大牛)](http://zh.lucida.me/blog/developer-reading-list/)
 
+>5.Android图片相关工具
+
+>* 1.[Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/)
+
 <h6 id="greatDeveloper">十二.值得关注的Android大牛</h6>
 >[国外](https://github.com/android-cn/android-dev-com)
 >
