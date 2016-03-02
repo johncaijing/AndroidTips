@@ -299,11 +299,11 @@ PS：持续更新中(last update date:2016-02-27 13:36)
 
 <h6 id="optimize">十.优化</h6>
 
->1.[Android内存优化杂谈(微信移动客户端开发团队)](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=400656149&idx=1&sn=122b4f4965fafebf78ec0b4fce2ef62a&scene=0&key=ac89cba618d2d9769bc3006ae6f052433e9addebbf0099674296838d889f7d2c4098d859550e3bf2f6b53b3483336fec&ascene=7&uin=MTgxNDQ2NzkyMg%3D%3D&devicetype=android-19&version=26030832&nettype=ctlte&pass_ticket=LuET1X%2BVwvmFOKoypeaRevizrPu8nav3c69WqE2ynS2F%2BUBstsQr9bD%2FYhH3gEAj)
+>1.[Android内存优化杂谈(微信移动客户端开发团队)](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=400656149&idx=1&sn=122b4f4965fafebf78ec0b4fce2ef62a&3rd=MzA3MDU4NTYzMw==&scene=6#rd)
 
 >2.[如何提高开发效率?(微信移动客户端开发团队)](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=400785752&idx=1&sn=e1c166e7fad0892811c9ca9bca6d1540&scene=0&key=41ecb04b051110033c2815a97388b84addcfa13da2d8c8fd754bdd21384a795226da667df6a4f1b591c452ccd48d29b8&ascene=0&uin=NTMyODkxMDE1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.11.2+build(15C50)&version=11020201&pass_ticket=ZXGITxr6bbn9Jmjzi5s4TzNgphY7BZ3j7xzQh%2BtYcqRDRivYxSjA1JbKPe1ME1q4)
 
->3.[Android 开发绕不过的坑：你的 Bitmap 究竟占多大内存？(腾讯Bugly团队)](https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=403263974&idx=1&sn=b0315addbc47f3c38e65d9c633a12cd6&scene=0&key=41ecb04b05111003d79189315d2ebdda9a5dc312d579a616c9358c3994f94eaf700ba910fb56c37d348fbe317cbce872&ascene=0&uin=NTMyODkxMDE1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.11.2+build(15C50)&version=11020201&pass_ticket=uq%2BZUPewIgxSiSrWWGqLMnd8%2Fy8eclx6vr92bs5s8Q9YVusWCl2cgRirA7iVDRu%2B)
+>3.[Android 开发绕不过的坑：你的 Bitmap 究竟占多大内存？(腾讯Bugly团队)](http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=498&fromuid=6)
 
 <h6 id="devTools">十一.优秀开发资料</h6>
 
@@ -411,7 +411,7 @@ PS：持续更新中(last update date:2016-02-27 13:36)
 
 >3.[Android学习之路](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
 
->4.[Android 开发进阶指南](https://mp.weixin.qq.com/s?__biz=MzA4MTg4MjkzMw==&mid=405812592&idx=1&sn=efa3c70957cc475eae9802944ecd0de0&scene=0&key=710a5d99946419d914f02bd2036ef7e6f1edcd79bd54deebd7e9ae9c6eef2cfdc9ec2af349eed600ab070410dedf1e5e&ascene=0&uin=NTMyODkxMDE1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.11.2+build(15C50)&version=11020201&pass_ticket=P0ZldiaQax8iSc28tlaK9BMHn2eoZ%2FGS4spkJB2%2BNzjeOV5QyJTzoYcTlCKLde62)
+>4.[Android 开发进阶指南](http://mp.weixin.qq.com/s?__biz=MzA4MTg4MjkzMw==&mid=405812592&idx=1&sn=efa3c70957cc475eae9802944ecd0de0&3rd=MzA3MDU4NTYzMw==&scene=6#rd)
 
 <h6 id="kotlin">十五.Kotlin</h6>
 >1. [Kotlin官网](https://kotlinlang.org/)
