@@ -102,6 +102,8 @@ PS：持续更新中(last update date:2016-02-27 13:36)
 
 >2.查找方法(Find Action)(Command+Shift+A)
 
+>3.查看类的层级(Ctrl+H)
+
 5.Android Studio中开启DDMS？
 
 >答:在Android中，依次点击Tools->Android->Android Device Monitor
@@ -408,6 +410,8 @@ PS：持续更新中(last update date:2016-02-27 13:36)
 >2.[ Android学习路线指南](http://blog.csdn.net/singwhatiwanna/article/details/49560409)
 
 >3.[Android学习之路](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
+
+>4.[Android 开发进阶指南](https://mp.weixin.qq.com/s?__biz=MzA4MTg4MjkzMw==&mid=405812592&idx=1&sn=efa3c70957cc475eae9802944ecd0de0&scene=0&key=710a5d99946419d914f02bd2036ef7e6f1edcd79bd54deebd7e9ae9c6eef2cfdc9ec2af349eed600ab070410dedf1e5e&ascene=0&uin=NTMyODkxMDE1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.11.2+build(15C50)&version=11020201&pass_ticket=P0ZldiaQax8iSc28tlaK9BMHn2eoZ%2FGS4spkJB2%2BNzjeOV5QyJTzoYcTlCKLde62)
 
 <h6 id="kotlin">十五.Kotlin</h6>
 >1. [Kotlin官网](https://kotlinlang.org/)
