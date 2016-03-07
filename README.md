@@ -4,7 +4,7 @@ A collections of tips in Android developing.
 ##前言
 我们在日常开发中，会遇到各种各样的问题，或大或小。正是通过解决这些问题，使得我们的开发技能得到进步。养成记录的好习惯，方便自己日后查看，也方便广大开发者能找到自己遇到的问题的解决方案。
 
-PS：持续更新中(last update date:2016-02-27 13:36)
+PS：持续更新中(last update date:2016-03-07 10:57)
 
 ##目录
 >[一.模拟器](#genymotion)
@@ -332,6 +332,7 @@ PS：持续更新中(last update date:2016-02-27 13:36)
 >答:
 
 >* 1.[程序员必读书单 1.0(作者:Lucida,Google大牛)](http://zh.lucida.me/blog/developer-reading-list/)
+>* 2.[Android开发者必备书单](http://mp.weixin.qq.com/s?__biz=MjM5MTE1NjQzMQ==&mid=403570038&idx=1&sn=19f8e9f035dfef36a15ada6fda2cc788&3rd=MzA3MDU4NTYzMw==&scene=6#rd)
 
 >5.Android图片相关工具
 
@@ -416,6 +417,11 @@ PS：持续更新中(last update date:2016-02-27 13:36)
 >3.[Android学习之路](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
 
 >4.[Android 开发进阶指南](http://mp.weixin.qq.com/s?__biz=MzA4MTg4MjkzMw==&mid=405812592&idx=1&sn=efa3c70957cc475eae9802944ecd0de0&3rd=MzA3MDU4NTYzMw==&scene=6#rd)
+
+>5.[怎样的Android开发毕业生可以算达到优秀的水平？](https://www.zhihu.com/question/39009692)
+
+>6.[Android 程序猿如何继续深入的研究技术层的知识？](https://www.zhihu.com/question/37549641/answer/83217748)
+
 
 <h6 id="kotlin">十五.Kotlin</h6>
 >1. [Kotlin官网](https://kotlinlang.org/)
