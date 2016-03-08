@@ -410,7 +410,7 @@ PS：持续更新中(last update date:2016-03-07 10:57)
 >* 1.[Canvas and Drawables(Android官方教程)](http://developer.android.com/guide/topics/graphics/2d-graphics.html)
 
 <h6 id="howToLearn">十四.学习方法/路线总结</h6>
->1.[Android学习进阶路线导航线路](http://blog.csdn.net/qinjuning/article/details/7416208)
+>1.[Android学习进阶路线导航线路](http://www.webtag123.com/android/38528.html)
 
 >2.[ Android学习路线指南](http://blog.csdn.net/singwhatiwanna/article/details/49560409)
 
