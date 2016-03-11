@@ -1,10 +1,10 @@
-# AndroidTips
+ # AndroidTips
 A collections of tips in Android developing.
 
 ##前言
 我们在日常开发中，会遇到各种各样的问题，或大或小。正是通过解决这些问题，使得我们的开发技能得到进步。养成记录的好习惯，方便自己日后查看，也方便广大开发者能找到自己遇到的问题的解决方案。
 
-PS：持续更新中(last update date:2016-03-07 10:57)
+PS：持续更新中(last update date:2016-03-11 15:34)
 
 ##目录
 >[一.模拟器](#genymotion)
@@ -338,11 +338,21 @@ PS：持续更新中(last update date:2016-03-07 10:57)
 
 >* 1.[Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/)
 
+>6.Android开发相关书籍推荐
+
+>* 1.[Android编程权威指南](https://book.douban.com/subject/25848404/)(入门，推荐)
+>* 2.[疯狂Android讲义](https://book.douban.com/subject/6515839/)(入门)
+>* 3.[第一行代码](https://book.douban.com/subject/25942191/)(入门)
+>* 4.[Android开发艺术探索](https://book.douban.com/subject/26599538/)(进阶，推荐)
+>* 5.[Andorid群英传](https://book.douban.com/subject/26599539/)(进阶)
+
+
 <h6 id="greatDeveloper">十二.值得关注的Android大牛</h6>
 >[国外](https://github.com/android-cn/android-dev-com)
 >
 >[国内](https://github.com/android-cn/android-dev-cn)
 >
+
 
 ---
 
