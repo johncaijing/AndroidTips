@@ -4,7 +4,7 @@ A collections of tips in Android developing.
 ##前言
 我们在日常开发中，会遇到各种各样的问题，或大或小。正是通过解决这些问题，使得我们的开发技能得到进步。养成记录的好习惯，方便自己日后查看，也方便广大开发者能找到自己遇到的问题的解决方案。
 
-PS：持续更新中(last update date:2016-03-11 15:34)
+PS：持续更新中(last update date:2016-03-12 09:45)
 
 ##目录
 >[一.模拟器](#genymotion)
@@ -431,6 +431,8 @@ PS：持续更新中(last update date:2016-03-11 15:34)
 >5.[怎样的Android开发毕业生可以算达到优秀的水平？](https://www.zhihu.com/question/39009692)
 
 >6.[Android 程序猿如何继续深入的研究技术层的知识？](https://www.zhihu.com/question/37549641/answer/83217748)
+
+>7.[给那些刚入行的 iOS/Android 开发新手们的一些建议](http://mp.weixin.qq.com/s?__biz=MzIwMTYzMzcwOQ==&mid=403237166&idx=1&sn=86c173ccbe9f93175dd842bba66bd821&3rd=MzA3MDU4NTYzMw==&scene=6#rd)
 
 
 <h6 id="kotlin">十五.Kotlin</h6>
