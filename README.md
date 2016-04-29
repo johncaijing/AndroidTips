@@ -1,10 +1,10 @@
-# AndroidTips
+ # AndroidTips
 A collections of tips in Android developing.
 
 ##前言
 我们在日常开发中，会遇到各种各样的问题，或大或小。正是通过解决这些问题，使得我们的开发技能得到进步。养成记录的好习惯，方便自己日后查看，也方便广大开发者能找到自己遇到的问题的解决方案。
 
-PS：持续更新中(last update date:2015/12/09)
+PS：持续更新中(last update date:2016-03-31 13:46)
 
 ##目录
 >[一.模拟器](#genymotion)
@@ -13,7 +13,7 @@ PS：持续更新中(last update date:2015/12/09)
 
 >[三.Gradle](#Gradle)
 
->[四.资源混淆](#resourceMix)
+> [四.Android四大组件](#AndroidComponent)
 
 >[五.动画](#animation)
 
@@ -22,6 +22,24 @@ PS：持续更新中(last update date:2015/12/09)
 >[七.XML](#XML)
 
 >[八.Java](#Java)
+
+>[九.混淆](#obfuscate)
+
+>[十.优化](#optimize)
+
+>[十一.优秀开发资料](#devTools)
+
+> [十二.值得关注的Android大牛](#greatDeveloper)
+
+> [十三.Canvas](#Canvas) 
+
+> [十四.学习方法总结](#howToLearn)
+
+> [十五.Kotlin](#kotlin) 
+
+> [十六.MaterialDesign](#MD)
+
+> [十七.自学资料](#selfStudy)
 
 ##正文
 <h6 id="genymotion">一.模拟器</h6>
@@ -53,6 +71,8 @@ PS：持续更新中(last update date:2015/12/09)
 
 > 5>.[Android WiFi ADB](https://github.com/pedrovgs/AndroidWiFiADB) 使用WiFi连接而不需要USB连接Android设备达到安装、运行、调试应用的目的。
 
+> 6>.[simpleUMLCE](https://plugins.jetbrains.com/plugin/4946?pr=) 自动生成类图
+
 2.Android Studio提升效率的技巧文章
 >答:
 
@@ -68,6 +88,8 @@ PS：持续更新中(last update date:2015/12/09)
 
 >[http://www.developerphil.com/android-studio-tips-of-the-day-roundup-6/](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-6/)
 
+>[上述Android Studio技巧的中文版](http://laobie.github.io/android/2016/02/14/android-studio-tips.html)
+
 3.更新Android Studio报如下错误如何解决？
 >Android Studio: Error:/android-studio/gradle/gradle-2.4/lib/plugins/gradle-diagnostics-2.4.jar (No such file or directory)
 
@@ -78,9 +100,26 @@ PS：持续更新中(last update date:2015/12/09)
 
 >1.快速生成get,set代码（Command+N）
 
+>2.查找方法(Find Action)(Command+Shift+A)
+
+>3.查看类的层级(Ctrl+H)
+
+>4.选中一侧代码(Alt+鼠标左键)
+
+![](http://7xr1jz.com1.z0.glb.clouddn.com/a.gif)
+
 5.Android Studio中开启DDMS？
 
 >答:在Android中，依次点击Tools->Android->Android Device Monitor
+
+6.Android Studio与Gradle教程
+>答：
+
+>1.[拥抱 Android Studio 之一：从 ADT 到 Android Studio](http://kvh.io/2015/12/01/embrace-android-studio-migration/)
+
+>2.[拥抱 Android Studio 之二：Android Studio 与 Gradle 深入](http://kvh.io/2015/12/17/embrace-android-studio-indepth/)
+
+>3.[拥抱 Android Studio 之三：溯源，Groovy 与 Gradle 基础](http://kvh.io/2016/01/04/embrace-android-studio-groovy-gradle/)
 
 <h6 id="Gradle">三.Gradle</h6>
 1.Gradle有什么教程?
@@ -106,14 +145,35 @@ PS：持续更新中(last update date:2015/12/09)
 
 >10.[Android 开发必备知识：我和 Gradle 有个约会(腾讯bugly团队)](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=401572523&idx=1&sn=19504d41b81f82a5388ae4f95072aea5&scene=0#wechat_redirect)
 
-<h6 id="resourceMix">四.资源混淆</h6>
-1.资源混淆有什么好的技术文章?
+2.Gradle在编译的时候报如下错误：Error:Timeout waiting to lock buildscript class cache for build file ，怎么解决？
 
 >答:
 
->1.[美团Android资源混淆保护实践](http://tech.meituan.com/mt-android-resource-obfuscation.html)
+>Windows:删除C:\Users\Administrator\.gradle\caches.这个文件夹
 
->2.[安装包立减1M--微信Android资源混淆打包工具](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=208135658&idx=1&sn=ac9bd6b4927e9e82f9fa14e396183a8f&scene=23&srcid=1012zDgw2RHFIoV0NLKVHhbT#rd)
+>OS X:删除~/.gradle/caches这个文件夹
+
+参考：[http://stackoverflow.com/questions/31784132/errortimeout-waiting-to-lock-buildscript-class-cache-for-build-file-when-change](http://stackoverflow.com/questions/31784132/errortimeout-waiting-to-lock-buildscript-class-cache-for-build-file-when-change)
+
+3.什么是Gradle，为什么在Android Studio中引进Gradle?
+>答：
+
+[http://stackoverflow.com/questions/16754643/what-is-gradle-in-android-studio](http://stackoverflow.com/questions/16754643/what-is-gradle-in-android-studio)
+
+<h6 id="AndroidComponent">四.Android四大组件</h6>
+>1.Activity
+
+>2.Service
+
+>* [Android Service完全解析，关于服务你所需知道的一切(上)](http://blog.csdn.net/guolin_blog/article/details/11952435)
+>* [Android Service完全解析，关于服务你所需知道的一切(下)](http://blog.csdn.net/guolin_blog/article/details/9797169)
+>* [Services(Android官方文档)](http://developer.android.com/guide/components/services.html)
+
+>3.ContentProvider
+
+>4.BroadcastReceriver
+
+>* [BroadcastReceiverAndroid官方文档](http://developer.android.com/reference/android/content/BroadcastReceiver.html)
 
 <h6 id="animation">五.动画</h6>
 1.关于动画有什么教程?
@@ -142,6 +202,8 @@ PS：持续更新中(last update date:2015/12/09)
 >12 .[codepath_android_guides_animations](https://github.com/codepath/android_guides/wiki/Animations)
 
 >12 .[bignerdranch_frame-animations-in-android](https://www.bignerdranch.com/blog/frame-animations-in-android/)
+
+>13 .[Building Meaningful Motion(Plaid作者Android动画演讲分享)](https://photos.google.com/share/AF1QipMRnZL6gNbS06fnBNtKffRm9HBaxW8iP6w0L1T4nZYLI6s3wi_l8daT6mq4nwPf-w?key=LThZNmFXUUtmNi04bWlEYmVfcWdPenlvaDdCRU13)
 
 <h6 id="View">六.View</h6>
 1.View是如何绘制的？
@@ -178,11 +240,16 @@ PS：持续更新中(last update date:2015/12/09)
 
 >4.[Android事件传递机制](http://ryantang.me/blog/2014/01/02/android-event-dispatch/)
 
+>5.[Handling single and multi touch on Android - Tutorial](http://www.vogella.com/tutorials/AndroidTouch/article.html)
+
 4.ImageView使用src和background设置图片的区别？
 >1.[http://stackoverflow.com/questions/5454491/what-is-the-difference-between-src-and-background-of-imageview](http://stackoverflow.com/questions/5454491/what-is-the-difference-between-src-and-background-of-imageview)
 
 >2.[Android 中 imageView 的 Src 和 Background
 ](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0723/3217.html)
+
+5.View中onTouch和onTouchEvent的区别？
+> 1.[http://stackoverflow.com/questions/5002049/ontouchevent-vs-ontouch](http://stackoverflow.com/questions/5002049/ontouchevent-vs-ontouch)
 
 
 
@@ -214,6 +281,195 @@ PS：持续更新中(last update date:2015/12/09)
 
 >3.[Java中的hashCode()方法和equals()方法](http://www.ibm.com/developerworks/library/j-jtp05273/)
 
+>4.[Java资源大全中文版(awesome-java-cn)](https://github.com/jobbole/awesome-java-cn)
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/JohnTsaiAndroid/androidtips/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+<h6 id="obfuscate">九.混淆</h6>
+>1. Android混淆有什么资料教程?
+
+>答:
+
+>* 1.[Android官方混淆教程](http://developer.android.com/tools/help/proguard.html)
+
+>* 2.[ProGuard官方教程](http://proguard.sourceforge.net/manual/examples.html)
+
+2.资源混淆有什么好的技术文章?
+
+>答:
+
+>1.[美团Android资源混淆保护实践](http://tech.meituan.com/mt-android-resource-obfuscation.html)
+
+>2.[安装包立减1M--微信Android资源混淆打包工具](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=208135658&idx=1&sn=ac9bd6b4927e9e82f9fa14e396183a8f&scene=23&srcid=1012zDgw2RHFIoV0NLKVHhbT#rd)
+
+
+<h6 id="optimize">十.优化</h6>
+
+>1.[Android内存优化杂谈(微信移动客户端开发团队)](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=400656149&idx=1&sn=122b4f4965fafebf78ec0b4fce2ef62a&3rd=MzA3MDU4NTYzMw==&scene=6#rd)
+
+>2.[如何提高开发效率?(微信移动客户端开发团队)](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=400785752&idx=1&sn=e1c166e7fad0892811c9ca9bca6d1540&scene=0&key=41ecb04b051110033c2815a97388b84addcfa13da2d8c8fd754bdd21384a795226da667df6a4f1b591c452ccd48d29b8&ascene=0&uin=NTMyODkxMDE1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.11.2+build(15C50)&version=11020201&pass_ticket=ZXGITxr6bbn9Jmjzi5s4TzNgphY7BZ3j7xzQh%2BtYcqRDRivYxSjA1JbKPe1ME1q4)
+
+>3.[Android 开发绕不过的坑：你的 Bitmap 究竟占多大内存？(腾讯Bugly团队)](http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=498&fromuid=6)
+
+<h6 id="devTools">十一.优秀开发资料</h6>
+
+>1.如何寻找优秀开源库？
+
+>答：
+
+>* 1.[codeKK开源库收集网站(由国内Android大牛Trinea)维护)](http://p.codekk.com/)
+>* 2.[查看Github JAVA trending](https://github.com/trending?l=java)
+>* 3.[Android Arsenal](http://android-arsenal.com/)
+
+>2.在线查看Android源码的网站:
+
+>* 1.[http://grepcode.com/project/repository.grepcode.com/java/ext/com.google.android/android/](http://grepcode.com/project/repository.grepcode.com/java/ext/com.google.android/android/)
+>* 2.[https://github.com/android](https://github.com/android)
+
+>3.在线书籍:
+
+>* 1.[Android 实战技巧](http://wiki.jikexueyuan.com/project/android-actual-combat-skills/)
+
+>* 2.[RxJava Essentials 中文翻译版](https://github.com/yuxingxin/RxJava-Essentials-CN)
+
+
+>4.程序员的读书清单
+
+>答:
+
+>* 1.[程序员必读书单 1.0(作者:Lucida,Google大牛)](http://zh.lucida.me/blog/developer-reading-list/)
+>* 2.[Android开发者必备书单](http://mp.weixin.qq.com/s?__biz=MjM5MTE1NjQzMQ==&mid=403570038&idx=1&sn=19f8e9f035dfef36a15ada6fda2cc788&3rd=MzA3MDU4NTYzMw==&scene=6#rd)
+
+>5.Android图片相关工具
+
+>* 1.[Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/)
+
+>6.Android开发相关书籍推荐
+
+>* 1.[Android编程权威指南](https://book.douban.com/subject/25848404/)(入门，推荐)
+>* 2.[疯狂Android讲义](https://book.douban.com/subject/6515839/)(入门)
+>* 3.[第一行代码](https://book.douban.com/subject/25942191/)(入门)
+>* 4.[Android开发艺术探索](https://book.douban.com/subject/26599538/)(进阶，推荐)
+>* 5.[Andorid群英传](https://book.douban.com/subject/26599539/)(进阶)
+
+
+<h6 id="greatDeveloper">十二.值得关注的Android大牛</h6>
+>[国外](https://github.com/android-cn/android-dev-com)
+>
+>[国内](https://github.com/android-cn/android-dev-cn)
+>
+
+
+---
+
+>**CSDN**
+
+>* 1.[郭霖](http://blog.csdn.net/guolin_blog)
+>* 2.[任玉刚](http://blog.csdn.net/singwhatiwanna)
+>* 3.[张鸿洋](http://blog.csdn.net/lmj623565791)
+>* 4.[罗升阳*](http://blog.csdn.net/Luoshengyang/)
+
+> (PS:*表示Android系统研究)
+
+>**微信公众号**
+
+>* 1.Google开发者（Google_Developers）
+>* 2.QQ空间终端开发团队(qzonemobiledev)
+>* 3.手机淘宝技术团队MTT（AlibabaMTT）
+>* 4.腾讯bugly(weixinBugly)
+>* 5.微信移动客户端团队（WeMobileDev）
+>* 6.好东西传送门(awesomeport)
+>* 7.阿里聚安全
+
+> 注:括号内为微信号
+
+
+>**Google+**
+
+>* 1.[JakeWharton(Work@Square)](https://plus.google.com/+JakeWharton)
+>* 2.[CyrilMottier](https://plus.google.com/+CyrilMottier)
+>* 3.[RomainGuy(Work@Google)](https://plus.google.com/+RomainGuy)
+>* 4.[NickButcher(Work@Google)](https://plus.google.com/+NickButcher)
+
+>**公司技术团队**
+
+>* 1.[美团点评技术团队](http://tech.meituan.com/)
+>* 2.[Glow 技术团队博客](http://tech.glowing.com/cn/)
+>* 3.[蘑菇街技术博客](http://mogu.io/)
+>* 4.[腾讯bugly团队](http://bugly.qq.com/blog/)
+>* 5.[腾讯ISUX团队](http://isux.tencent.com/)
+>* 6.[BigNerdRanch团队（国外著名培训机构）](https://www.bignerdranch.com/blog/)
+>* 7.[ IBM developerworks(Java)](http://www.ibm.com/developerworks/cn/java/)
+
+>**Android开发技术资讯网站**
+
+>* 1.[干货集中营gank.io](http://gank.io)
+>* 2.[稀土掘金](http://gold.xitu.io/#/)
+>* 3.[Android Weekly](http://androidweekly.net/)
+>* 4.[AndroidHive（一个针对初学者的Android开发的教程、贴士，小技巧等的英文网站）](http://www.androidhive.info/)
+
+>**Github上那些值得关注的公司组织**
+
+>* 1.[Google(谷歌)](https://github.com/google)
+>* 2.[Excilys(作品有著名的Android注入框架AndroidAnnotation)](https://github.com/excilys)
+>* 3.[Alibaba(阿里)](https://github.com/alibaba)
+>* 4.[Square(作品有著名的Android网络框架OkHttp,Retrofit)](https://github.com/square)
+>* 5.[TecentOpen(腾讯)](https://github.com/TencentOpen)
+>* 6.[500-px](https://github.com/500px)
+
+
+>**个人独立博客**
+
+
+<h6 id="Canvas">十三.Canvas</h6>
+>1.Canvas相关的教程:
+
+>* 1.[Canvas and Drawables(Android官方教程)](http://developer.android.com/guide/topics/graphics/2d-graphics.html)
+
+<h6 id="howToLearn">十四.学习方法/路线总结</h6>
+>1.[Android学习进阶路线导航线路](http://www.webtag123.com/android/38528.html)
+
+>2.[ Android学习路线指南](http://blog.csdn.net/singwhatiwanna/article/details/49560409)
+
+>3.[Android学习之路](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
+
+>4.[Android 开发进阶指南](http://mp.weixin.qq.com/s?__biz=MzA4MTg4MjkzMw==&mid=405812592&idx=1&sn=efa3c70957cc475eae9802944ecd0de0&3rd=MzA3MDU4NTYzMw==&scene=6#rd)
+
+>5.[怎样的Android开发毕业生可以算达到优秀的水平？](https://www.zhihu.com/question/39009692)
+
+>6.[Android 程序猿如何继续深入的研究技术层的知识？](https://www.zhihu.com/question/37549641/answer/83217748)
+
+>7.[给那些刚入行的 iOS/Android 开发新手们的一些建议](http://mp.weixin.qq.com/s?__biz=MzIwMTYzMzcwOQ==&mid=403237166&idx=1&sn=86c173ccbe9f93175dd842bba66bd821&3rd=MzA3MDU4NTYzMw==&scene=6#rd)
+
+
+<h6 id="kotlin">十五.Kotlin</h6>
+>1. [Kotlin官网](https://kotlinlang.org/)
+>2. [Kotlin官网（中文版）](http://kotlinlang.cn/)
+>3. [《Kotlin for android developers》中文版](https://wangjiegulu.gitbooks.io/kotlin-for-android-developers-zh/content/)
+
+
+<h6 id="MD">十六.MaterialDesign</h6>
+
+<h6 id="selfStudy">十七.自学资料</h6>
+
+>1. [Android开发官方文档（英文版）](http://developer.android.com/training/index.html)
+
+>2. [Android开发中文文档](http://hukai.me/android-training-course-in-chinese/index.html)
+
+>3. [Android学习资料收集](https://github.com/Freelander/Android_Data)
+
+##参与维护
+欢迎Pull Request和使用issue
+
+##LICENCE
+以上内容采用[ CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh)进行许可
+
+##关于我
+网络ID:JohnTsai
+
+Android开发者，手机发烧友。
+
+我的博客:[http://www.johntsai.xyz](http://www.johntsai.xyz)
+
+博客园博客:[http://www.cnblogs.com/JohnTsai](http://www.cnblogs.com/JohnTsai)
+
+邮箱:[JohnTsai.Work#gmail.com](mailto:JohnTsai.Work@gmail.com)
 
