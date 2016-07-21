@@ -41,6 +41,8 @@ PS：持续更新中(last update date:2016-07-15 13:30)
 
 > [十七.自学资料](#selfStudy)
 
+> [十八.RxJava](#RxJava)
+
 ##正文
 <h6 id="genymotion">一.模拟器</h6>
 
@@ -464,6 +466,14 @@ PS：持续更新中(last update date:2016-07-15 13:30)
 >2. [Android开发中文文档](http://hukai.me/android-training-course-in-chinese/index.html)
 
 >3. [Android学习资料收集](https://github.com/Freelander/Android_Data)
+
+
+<h6 id="RxJava">十八.RxJava</h6>
+
+> 1. [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
+> 2. [Adopting RxJava on Airbnb Android](https://realm.io/news/kau-felipe-lima-adopting-rxjava-airbnb-android/)
+> 3. [Grokking RxJava系列](http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/)
+> 4. [Reactivex官方教程](http://reactivex.io/tutorials.html)
 
 ##参与维护
 欢迎Pull Request和使用issue
