@@ -476,7 +476,7 @@ PS：持续更新中(last update date:2016-07-15 13:30)
 
 Android开发者，手机发烧友。
 
-我的博客:[http://www.johntsai.xyz](http://www.johntsai.xyz)
+我的博客:[https://www.johntsai.xyz](https://www.johntsai.xyz)
 
 博客园博客:[http://www.cnblogs.com/JohnTsai](http://www.cnblogs.com/JohnTsai)
 
