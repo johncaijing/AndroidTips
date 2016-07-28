@@ -5,7 +5,7 @@ Android开发总结。
 ##前言
 我们在日常开发中，会遇到各种各样的问题，或大或小。正是通过解决这些问题，使得我们的开发技能得到进步。养成记录的好习惯，方便自己日后查看，也方便广大开发者能找到自己遇到的问题的解决方案。
 
-PS：持续更新中(last update date:2016-07-28 18:51)
+PS：持续更新中(last update date:2016-07-28 19:06)
 
 ##目录
 >[一.模拟器](#genymotion)
@@ -481,8 +481,11 @@ PS：持续更新中(last update date:2016-07-28 18:51)
 <h6 id="MVPMVC">十九.开发框架（如MVP等）</h6>
 
  > 1.[一步一步实现Android的MVP框架](https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653577546&idx=1&sn=e10be159645a3aa8f6d6f209420fb412&scene=0&key=8dcebf9e179c9f3a130f41588b53ffbaaf5f043957c7e472dbaed7fd6f0b0a1cb29335430d756e6473d09ff8fd11bc8c)
-
-
+ 
+ > 2.[Android Application Architecture](https://labs.ribot.co.uk/android-application-architecture-8b6e34acda65#.igkl0haav)
+ 
+ > 3.[Google官方Android架构示例](https://github.com/googlesamples/android-architecture)
+ 
 ##参与维护
 欢迎Pull Request和使用issue
 
@@ -497,6 +500,10 @@ Android开发者，手机发烧友。
 我的博客:[https://www.johntsai.xyz](https://www.johntsai.xyz)
 
 博客园博客:[http://www.cnblogs.com/JohnTsai](http://www.cnblogs.com/JohnTsai)
+
+简书:[http://www.jianshu.com/users/07ba99ac6962/latest_articles](http://www.jianshu.com/users/07ba99ac6962/latest_articles)
+
+Google+:[https://plus.google.com/106757597621151145389/posts](https://plus.google.com/106757597621151145389/posts)
 
 邮箱:[JohnTsai.Work#gmail.com](mailto:JohnTsai.Work@gmail.com)
 
