@@ -1,10 +1,11 @@
- # AndroidTips
+# AndroidTips
 A collections of tips in Android developing.
+Android开发总结。
 
 ##前言
 我们在日常开发中，会遇到各种各样的问题，或大或小。正是通过解决这些问题，使得我们的开发技能得到进步。养成记录的好习惯，方便自己日后查看，也方便广大开发者能找到自己遇到的问题的解决方案。
 
-PS：持续更新中(last update date:2016-07-15 13:30)
+PS：持续更新中(last update date:2016-07-28 18:51)
 
 ##目录
 >[一.模拟器](#genymotion)
@@ -42,6 +43,8 @@ PS：持续更新中(last update date:2016-07-15 13:30)
 > [十七.自学资料](#selfStudy)
 
 > [十八.RxJava](#RxJava)
+
+> [十九.开发框架（如MVP等）](#MVPMVC) 
 
 ##正文
 <h6 id="genymotion">一.模拟器</h6>
@@ -474,6 +477,11 @@ PS：持续更新中(last update date:2016-07-15 13:30)
 > 2. [Adopting RxJava on Airbnb Android](https://realm.io/news/kau-felipe-lima-adopting-rxjava-airbnb-android/)
 > 3. [Grokking RxJava系列](http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/)
 > 4. [Reactivex官方教程](http://reactivex.io/tutorials.html)
+
+<h6 id="MVPMVC">十九.开发框架（如MVP等）</h6>
+
+ > 1.[一步一步实现Android的MVP框架](https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653577546&idx=1&sn=e10be159645a3aa8f6d6f209420fb412&scene=0&key=8dcebf9e179c9f3a130f41588b53ffbaaf5f043957c7e472dbaed7fd6f0b0a1cb29335430d756e6473d09ff8fd11bc8c)
+
 
 ##参与维护
 欢迎Pull Request和使用issue
