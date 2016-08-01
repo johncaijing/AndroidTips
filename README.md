@@ -5,7 +5,7 @@ Android开发总结。
 ##前言
 我们在日常开发中，会遇到各种各样的问题，或大或小。正是通过解决这些问题，使得我们的开发技能得到进步。养成记录的好习惯，方便自己日后查看，也方便广大开发者能找到自己遇到的问题的解决方案。
 
-PS：持续更新中(last update date:2016-07-28 19:06)
+PS：持续更新中(last update date:2016-08-01 14:36)
 
 ##目录
 >[一.模拟器](#genymotion)
@@ -124,15 +124,15 @@ PS：持续更新中(last update date:2016-07-28 19:06)
 6.Android Studio与Gradle教程
 >答：
 
->1.[拥抱 Android Studio 之一：从 ADT 到 Android Studio](http://kvh.io/2015/12/01/embrace-android-studio-migration/)
+>1.[拥抱 Android Studio 之一：从 ADT 到 Android Studio](http://kvh.io/cn/embrace-android-studio-migration.html)
 
->2.[拥抱 Android Studio 之二：Android Studio 与 Gradle 深入](http://kvh.io/2015/12/17/embrace-android-studio-indepth/)
+>2.[拥抱 Android Studio 之二：Android Studio 与 Gradle 深入](http://kvh.io/cn/embrace-android-studio-indepth.html)
 
->3.[拥抱 Android Studio 之三：溯源，Groovy 与 Gradle 基础](http://kvh.io/2016/01/04/embrace-android-studio-groovy-gradle/)
+>3.[拥抱 Android Studio 之三：溯源，Groovy 与 Gradle 基础](http://kvh.io/cn/embrace-android-studio-groovy-gradle.html)
 
->4.[拥抱 Android Studio 之四：Maven 仓库使用与私有仓库搭建](http://kvh.io/2016/01/20/embrace-android-studio-maven-deploy/)
+>4.[拥抱 Android Studio 之四：Maven 仓库使用与私有仓库搭建](http://kvh.io/cn/embrace-android-studio-maven-deploy.html)
 
->5.[拥抱 Android Studio 之五：Gradle 插件开发](http://kvh.io/2016/03/28/embrace-android-studio-gradle-plugin/)
+>5.[拥抱 Android Studio 之五：Gradle 插件开发](http://kvh.io/cn/embrace-android-studio-gradle-plugin.html)
 
 <h6 id="Gradle">三.Gradle</h6>
 1.Gradle有什么教程?
