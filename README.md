@@ -5,7 +5,7 @@ Android开发总结。
 ##前言
 我们在日常开发中，会遇到各种各样的问题，或大或小。正是通过解决这些问题，使得我们的开发技能得到进步。养成记录的好习惯，方便自己日后查看，也方便广大开发者能找到自己遇到的问题的解决方案。
 
-PS：持续更新中(last update date:2016-08-01 14:36)
+PS：持续更新中(last update date:2016-08-15 09:12)
 
 ##目录
 >[一.模拟器](#genymotion)
@@ -45,6 +45,8 @@ PS：持续更新中(last update date:2016-08-01 14:36)
 > [十八.RxJava](#RxJava)
 
 > [十九.开发框架（如MVP等）](#MVPMVC) 
+
+> [二十.Android开发面试资料](#Interview)
 
 ##正文
 <h6 id="genymotion">一.模拟器</h6>
@@ -485,6 +487,15 @@ PS：持续更新中(last update date:2016-08-01 14:36)
  > 2.[Android Application Architecture](https://labs.ribot.co.uk/android-application-architecture-8b6e34acda65#.igkl0haav)
  
  > 3.[Google官方Android架构示例](https://github.com/googlesamples/android-architecture)
+ 
+ 
+<h6 id="Interview">二十.Android开发面试资料</h6>
+
+> 1.[Android interview questions for 2-5 yrs experienced(2-5年经验的Android开发面试问题)](http://androidquestions.quora.com/Android-interview-questions-for-2-5-yrs-experienced)
+
+> 2.[250 Android Interview Questions(250道Android开发面试题)](https://androidquestions.quora.com/250-Android-Interview-Questions) 
+
+> 3.[Android interview questions(Android面试问题)](http://androidquestions.quora.com/Android-interview-questions)
  
 ##参与维护
 欢迎Pull Request和使用issue
