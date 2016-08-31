@@ -5,7 +5,7 @@ Android开发总结。
 ##前言
 我们在日常开发中，会遇到各种各样的问题，或大或小。正是通过解决这些问题，使得我们的开发技能得到进步。养成记录的好习惯，方便自己日后查看，也方便广大开发者能找到自己遇到的问题的解决方案。
 
-PS：持续更新中(last update date:2016-08-20 21:22)
+PS：持续更新中(last update date:2016-08-31 16:44)
 
 ##目录
 >[一.模拟器](#genymotion)
@@ -49,6 +49,8 @@ PS：持续更新中(last update date:2016-08-20 21:22)
 > [二十.Android开发面试资料](#Interview)
 
 > [二十一.Android逆向](#Reverse)
+
+> [二十二.Android编译构建](#AndroidBuild) 
 
 ##正文
 <h6 id="genymotion">一.模拟器</h6>
@@ -503,6 +505,11 @@ PS：持续更新中(last update date:2016-08-20 21:22)
 <h6 id="Reverse">二十一.Android逆向</h6>
 
 > 1.[Android技术分享的逆向教程](http://www.wjdiankong.cn/category/android%E6%8A%80%E6%9C%AF%E7%AF%87/)
+ 
+ 
+<h6 id="AndroidBuild">二十二.Android编译构建</h6>
+
+> 1.[Android构建过程分析](http://mp.weixin.qq.com/s?__biz=MzI1NjEwMTM4OA==&mid=2651232113&idx=1&sn=02f413999ab0865e23d272e69b9e6196&scene=0#rd)
  
 ##参与维护
 欢迎Pull Request和使用issue
