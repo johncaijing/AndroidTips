@@ -5,7 +5,7 @@ Android开发总结。
 ##前言
 我们在日常开发中，会遇到各种各样的问题，或大或小。正是通过解决这些问题，使得我们的开发技能得到进步。养成记录的好习惯，方便自己日后查看，也方便广大开发者能找到自己遇到的问题的解决方案。
 
-PS：持续更新中(last update date:2016-09-08 11:17)
+PS：持续更新中(last update date:2016-09-08 20:01)
 
 ##目录
 >[一.模拟器](#genymotion)
@@ -48,7 +48,7 @@ PS：持续更新中(last update date:2016-09-08 11:17)
 
 > [二十.Android开发面试资料](#Interview)
 
-> [二十一.Android逆向](#Reverse)
+> [二十一.Android逆向与安全](#Reverse)
 
 > [二十二.Android编译构建](#AndroidBuild) 
 
@@ -502,9 +502,13 @@ PS：持续更新中(last update date:2016-09-08 11:17)
 > 3.[Android interview questions(Android面试问题)](http://androidquestions.quora.com/Android-interview-questions)
  
 
-<h6 id="Reverse">二十一.Android逆向</h6>
+<h6 id="Reverse">二十一.Android逆向与安全</h6>
 
 > 1.[Android技术分享的逆向教程](http://blog.csdn.net/jiangwei0910410003/article/category/5897865)
+> 2. [Android反破解之一：Android Java混淆(ProGuard)](http://bbs.pediy.com/showthread.php?t=137112)
+> 3. [APK反破解之二：Android APK 签名比对](http://bbs.pediy.com/showthread.php?t=137500)
+> 4. [APK反破解之三：NDK编译.so动态库](http://bbs.pediy.com/showthread.php?t=141960)
+> 5. [APK反破解之四：Android代码动态加载技术](http://bbs.pediy.com/showthread.php?t=142256)
  
  
 <h6 id="AndroidBuild">二十二.Android编译构建</h6>
