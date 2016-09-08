@@ -505,9 +505,13 @@ PS：持续更新中(last update date:2016-09-08 20:01)
 <h6 id="Reverse">二十一.Android逆向与安全</h6>
 
 > 1.[Android技术分享的逆向教程](http://blog.csdn.net/jiangwei0910410003/article/category/5897865)
+
 > 2. [Android反破解之一：Android Java混淆(ProGuard)](http://bbs.pediy.com/showthread.php?t=137112)
+
 > 3. [APK反破解之二：Android APK 签名比对](http://bbs.pediy.com/showthread.php?t=137500)
+
 > 4. [APK反破解之三：NDK编译.so动态库](http://bbs.pediy.com/showthread.php?t=141960)
+
 > 5. [APK反破解之四：Android代码动态加载技术](http://bbs.pediy.com/showthread.php?t=142256)
  
  
