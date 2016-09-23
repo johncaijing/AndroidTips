@@ -250,6 +250,8 @@ PS：持续更新中(last update date:2016-09-08 20:01)
 >6.[Canvas and Drawables
 ](http://developer.android.com/intl/zh-cn/guide/topics/graphics/2d-graphics.html)
 
+>7.[Android自定义View系列文章](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/README.md)
+
 3.Android touch事件分发机制
 >1.[Managing Touch Events in a ViewGroup](http://developer.android.com/intl/zh-cn/training/gestures/viewgroup.html)
 
