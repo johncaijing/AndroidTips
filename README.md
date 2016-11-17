@@ -117,8 +117,6 @@ PS：持续更新中(last update date:2016-11-17 15:01)
 
 >4.选中一侧代码(Alt+鼠标左键)
 
-![](http://7xr1jz.com1.z0.glb.clouddn.com/a.gif)
-
 >5.提取方法(Command+Option+M)
 
 ![](http://stormzhang.com/image/53-extractmethod.gif)
@@ -164,7 +162,7 @@ PS：持续更新中(last update date:2016-11-17 15:01)
 
 >10.[Android 开发必备知识：我和 Gradle 有个约会(腾讯bugly团队)](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=401572523&idx=1&sn=19504d41b81f82a5388ae4f95072aea5&scene=0#wechat_redirect)
 
->11.[Android Recipes for Android](./book/Gradle Recipes for Android_Master the New Build System for Android-O%27Reilly%282016%29.pdf)
+>11.[Android Recipes for Android](./book/Gradle Recipes for Android.pdf)
 
 2.Gradle在编译的时候报如下错误：Error:Timeout waiting to lock buildscript class cache for build file ，怎么解决？
 
