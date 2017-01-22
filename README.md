@@ -5,7 +5,7 @@ Android开发总结。
 ##前言
 我们在日常开发中，会遇到各种各样的问题，或大或小。正是通过解决这些问题，使得我们的开发技能得到进步。养成记录的好习惯，方便自己日后查看，也方便广大开发者能找到自己遇到的问题的解决方案。
 
-PS：持续更新中(last update date:2016-11-17 15:01)
+PS：持续更新中(last update date:2017-01-22 09:31)
 
 ##目录
 >[一.模拟器](#genymotion)
@@ -51,6 +51,8 @@ PS：持续更新中(last update date:2016-11-17 15:01)
 > [二十一.Android逆向与安全](#Reverse)
 
 > [二十二.Android编译构建](#AndroidBuild) 
+
+> [二十三.Android动态加载](#AndroidDynamicLoad)
 
 ##正文
 <h6 id="genymotion">一.模拟器</h6>
@@ -516,6 +518,13 @@ PS：持续更新中(last update date:2016-11-17 15:01)
 <h6 id="AndroidBuild">二十二.Android编译构建</h6>
 
 > 1.[Android构建过程分析](http://mp.weixin.qq.com/s?__biz=MzI1NjEwMTM4OA==&mid=2651232113&idx=1&sn=02f413999ab0865e23d272e69b9e6196&scene=0#rd)
+
+<h6 id="AndroidDynamicLoad">二十三.Android动态加载</h6>
+
+> 1.[Android动态加载基础 ClassLoader工作机制](https://segmentfault.com/a/1190000004062880)
+> 2.[Android插件化研究](https://github.com/nuptboyzhb/AndroidPluginFramework)
+
+
  
 ##参与维护
 欢迎Pull Request和使用issue
