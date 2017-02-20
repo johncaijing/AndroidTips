@@ -487,6 +487,7 @@ PS：持续更新中(last update date:2017-01-22 09:31)
 > 2. [Adopting RxJava on Airbnb Android](https://realm.io/news/kau-felipe-lima-adopting-rxjava-airbnb-android/)
 > 3. [Grokking RxJava系列](http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/)
 > 4. [Reactivex官方教程](http://reactivex.io/tutorials.html)
+> 5. [RxJava Essentials 中文翻译版](https://github.com/yuxingxin/RxJava-Essentials-CN)
 
 <h6 id="MVPMVC">十九.开发框架（如MVP等）</h6>
 
