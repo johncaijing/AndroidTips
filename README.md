@@ -5,7 +5,7 @@ Android开发总结。
 ##前言
 我们在日常开发中，会遇到各种各样的问题，或大或小。正是通过解决这些问题，使得我们的开发技能得到进步。养成记录的好习惯，方便自己日后查看，也方便广大开发者能找到自己遇到的问题的解决方案。
 
-PS：持续更新中(last update date:2017-02-22 09:57)
+PS：持续更新中(last update date:2017-02-28 17:01)
 
 ##目录
 >[一.模拟器](#genymotion)
@@ -489,6 +489,7 @@ PS：持续更新中(last update date:2017-02-22 09:57)
 > 4. [Reactivex官方教程](http://reactivex.io/tutorials.html)
 > 5. [RxJava Essentials 中文翻译版](https://github.com/yuxingxin/RxJava-Essentials-CN)
 > 6. [RxJava文档中文版](https://www.gitbook.com/book/mcxiaoke/rxdocs/details)
+> 7. [Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava)
 
 <h6 id="MVPMVC">十九.开发框架（如MVP等）</h6>
 
