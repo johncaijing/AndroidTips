@@ -71,9 +71,10 @@ PS：持续更新中(last update date:2017-03-03 11:25)
  
  
 <h6 id="AndroidStudio">二.Android Studio</h6>
-1.Andorid Studio中有哪些好用的插件？
->答: 
 
+1.Andorid Studio中有哪些好用的插件？
+
+>答: 
 >1>.[GsonFormat](https://github.com/zzz40500/GsonFormat):用json数据一键生成JavaBeans
 
 >2>. [ADB Idea](https://github.com/pbreault/adb-idea)：ctrl + Shift + A 查找中添加常用卸载安装app的一些操作，无需命令行
@@ -141,6 +142,7 @@ PS：持续更新中(last update date:2017-03-03 11:25)
 >5.[拥抱 Android Studio 之五：Gradle 插件开发](http://kvh.io/cn/embrace-android-studio-gradle-plugin.html)
 
 <h6 id="Gradle">三.Gradle</h6>
+
 1.Gradle有什么教程?
 
 
@@ -182,6 +184,7 @@ PS：持续更新中(last update date:2017-03-03 11:25)
 [http://stackoverflow.com/questions/16754643/what-is-gradle-in-android-studio](http://stackoverflow.com/questions/16754643/what-is-gradle-in-android-studio)
 
 <h6 id="AndroidComponent">四.Android四大组件</h6>
+
 >1.Activity
 
 >2.Service
@@ -197,6 +200,7 @@ PS：持续更新中(last update date:2017-03-03 11:25)
 >* [BroadcastReceiverAndroid官方文档](http://developer.android.com/reference/android/content/BroadcastReceiver.html)
 
 <h6 id="animation">五.动画</h6>
+
 1.关于动画有什么教程?
 >1.[Android官方](http://developer.android.com/intl/zh-cn/guide/topics/graphics/index.html)
 
@@ -227,6 +231,7 @@ PS：持续更新中(last update date:2017-03-03 11:25)
 >13 .[Building Meaningful Motion(Plaid作者Android动画演讲分享)](https://photos.google.com/share/AF1QipMRnZL6gNbS06fnBNtKffRm9HBaxW8iP6w0L1T4nZYLI6s3wi_l8daT6mq4nwPf-w?key=LThZNmFXUUtmNi04bWlEYmVfcWdPenlvaDdCRU13)
 
 <h6 id="View">六.View</h6>
+
 1.View是如何绘制的？
 >1.[How Android Draws Views](http://developer.android.com/intl/zh-cn/guide/topics/ui/how-android-draws.html)
 
@@ -307,6 +312,7 @@ PS：持续更新中(last update date:2017-03-03 11:25)
 >4.[Java资源大全中文版(awesome-java-cn)](https://github.com/jobbole/awesome-java-cn)
 
 <h6 id="obfuscate">九.混淆</h6>
+
 >1. Android混淆有什么资料教程?
 
 >答:
@@ -375,6 +381,7 @@ PS：持续更新中(last update date:2017-03-03 11:25)
 
 
 <h6 id="greatDeveloper">十二.值得关注的Android大牛</h6>
+
 >[国外](https://github.com/android-cn/android-dev-com)
 >
 >[国内](https://github.com/android-cn/android-dev-cn)
@@ -444,11 +451,13 @@ PS：持续更新中(last update date:2017-03-03 11:25)
 
 
 <h6 id="Canvas">十三.Canvas</h6>
+
 >1.Canvas相关的教程:
 
 >* 1.[Canvas and Drawables(Android官方教程)](http://developer.android.com/guide/topics/graphics/2d-graphics.html)
 
 <h6 id="howToLearn">十四.学习方法/路线总结</h6>
+
 >1.[Android学习进阶路线导航线路](http://www.webtag123.com/android/38528.html)
 
 >2.[ Android学习路线指南](http://blog.csdn.net/singwhatiwanna/article/details/49560409)
@@ -465,9 +474,11 @@ PS：持续更新中(last update date:2017-03-03 11:25)
 
 
 <h6 id="kotlin">十五.Kotlin</h6>
+
 >1. [Kotlin官网](https://kotlinlang.org/)
 >2. [Kotlin官网（中文版）](http://kotlinlang.cn/)
 >3. [《Kotlin for android developers》中文版](https://wangjiegulu.gitbooks.io/kotlin-for-android-developers-zh/content/)
+>4. [Learning RxJava.pdf](./book/Learning RxJava.pdf)
 
 
 <h6 id="MD">十六.MaterialDesign</h6>
