@@ -5,7 +5,7 @@ Android开发总结。
 ## 前言
 我们在日常开发中，会遇到各种各样的问题，或大或小。正是通过解决这些问题，使得我们的开发技能得到进步。养成记录的好习惯，方便自己日后查看，也方便广大开发者能找到自己遇到的问题的解决方案。
 
-PS：持续更新中(last update date:2017-03-03 11:25)
+PS：持续更新中(last update date:2017-12-07 20:08)
 
 ## 目录
 >[一.模拟器](#genymotion)
@@ -476,9 +476,10 @@ PS：持续更新中(last update date:2017-03-03 11:25)
 <h6 id="kotlin">十五.Kotlin</h6>
 
 >1. [Kotlin官网](https://kotlinlang.org/)
+
 >2. [Kotlin官网（中文版）](http://kotlinlang.cn/)
+
 >3. [《Kotlin for android developers》中文版](https://wangjiegulu.gitbooks.io/kotlin-for-android-developers-zh/content/)
->4. [Learning RxJava.pdf](./book/Learning RxJava.pdf)
 
 
 <h6 id="MD">十六.MaterialDesign</h6>
@@ -501,6 +502,7 @@ PS：持续更新中(last update date:2017-03-03 11:25)
 > 5. [RxJava Essentials 中文翻译版](https://github.com/yuxingxin/RxJava-Essentials-CN)
 > 6. [RxJava文档中文版](https://www.gitbook.com/book/mcxiaoke/rxdocs/details)
 > 7. [Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava)
+>8. [Learning RxJava.pdf](./book/Learning RxJava.pdf)
 
 <h6 id="MVPMVC">十九.开发框架（如MVP等）</h6>
 
