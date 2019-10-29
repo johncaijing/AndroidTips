@@ -5,7 +5,7 @@ Android开发总结。
 ## 前言
 我们在日常开发中，会遇到各种各样的问题，或大或小。正是通过解决这些问题，使得我们的开发技能得到进步。养成记录的好习惯，方便自己日后查看，也方便广大开发者能找到自己遇到的问题的解决方案。
 
-PS：持续更新中(last update date:2018-07-04 14:52)
+PS：持续更新中(last update date:2019-10-29 14:40)
 
 ## 目录
 >[一.模拟器](#genymotion)
@@ -430,6 +430,7 @@ PS：持续更新中(last update date:2018-07-04 14:52)
 >* 5.[腾讯ISUX团队](http://isux.tencent.com/)
 >* 6.[BigNerdRanch团队（国外著名培训机构）](https://www.bignerdranch.com/blog/)
 >* 7.[ IBM developerworks(Java)](http://www.ibm.com/developerworks/cn/java/)
+>* 8.[考拉移动团队](https://blog.klmobile.app/)
 
 >**Android开发技术资讯网站**
 
