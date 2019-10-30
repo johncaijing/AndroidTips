@@ -431,6 +431,7 @@ PS：持续更新中(last update date:2019-10-29 14:40)
 >* 6.[BigNerdRanch团队（国外著名培训机构）](https://www.bignerdranch.com/blog/)
 >* 7.[ IBM developerworks(Java)](http://www.ibm.com/developerworks/cn/java/)
 >* 8.[考拉移动团队](https://blog.klmobile.app/)
+>* 9.[大搜车技术团队](https://blog.souche.com/)
 
 >**Android开发技术资讯网站**
 
