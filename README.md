@@ -313,6 +313,8 @@ PS：持续更新中(last update date:2019-10-29 14:40)
 
 >4.[Java资源大全中文版(awesome-java-cn)](https://github.com/jobbole/awesome-java-cn)
 
+>4.["==" Java中的运算符)](https://www.scaler.com/topics/java/equals-method-in-java/#what-is-the-%22==%22-operator-in-java-)
+
 <h6 id="obfuscate">九.混淆</h6>
 
 >1. Android混淆有什么资料教程?
